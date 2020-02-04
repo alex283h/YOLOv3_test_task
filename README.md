@@ -60,4 +60,5 @@ best.pt (файл) - это нейронная сеть, которая на в�
 
 Результаты работы (папка output):
 ![GitHub Logo](https://github.com/alex283h/YOLOv3/blob/master/output/00e9vso7hc2zf31lsbc0830f5ksrzg9lmtrbh8tpgt6lzutyhex8a06lwypms50b.jpg?raw=true)
-
+![GitHub Logo](https://github.com/alex283h/YOLOv3/blob/master/output/04luicdtkzwajaklttpfvfotvn55agjvpyfoxraeyp66yif6oweb8oxf6e1e1ivy.jpg?raw=true)
+![GitHub Logo](https://github.com/alex283h/YOLOv3/blob/master/output/0eq930tsm6kv07e33td556qkwz5odvp95km7fxd1uac7hmgqw25e1zja8i0g0rh2.jpg?raw=true)
