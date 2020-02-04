@@ -59,5 +59,4 @@ utils.plot_results()
 best.pt (файл) - это нейронная сеть, которая на валидационном наборе показала наилучшие результаты среди всех итераций.
 
 Результаты работы (папка output):
-
-![GitHub Logo](/YOLOv3/output/00e9vso7hc2zf31lsbc0830f5ksrzg9lmtrbh8tpgt6lzutyhex8a06lwypms50b.jpg)
+![GitHub Logo](https://github.com/alex283h/YOLOv3/blob/master/output/00e9vso7hc2zf31lsbc0830f5ksrzg9lmtrbh8tpgt6lzutyhex8a06lwypms50b.jpg?raw=true)
