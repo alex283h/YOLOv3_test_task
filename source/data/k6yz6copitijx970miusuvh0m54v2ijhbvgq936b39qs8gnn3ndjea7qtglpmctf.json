@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 352.6128587126732,
+            "y": 478.2104569673538,
+            "width": 59.540488719940186,
+            "height": 73.92770504951477,
+            "genre": "hombre",
+            "class": "collares"
+        },
+        {
+            "x": 276.28481060266495,
+            "y": 699.3356122970581,
+            "width": 143.41819524765015,
+            "height": 102.13840413093567,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 282.02662095427513,
+            "y": 476.58260929584503,
+            "width": 189.85750153660774,
+            "height": 260.6859347820282,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "k6yz6copitijx970miusuvh0m54v2ijhbvgq936b39qs8gnn3ndjea7qtglpmctf.jpg"
+}

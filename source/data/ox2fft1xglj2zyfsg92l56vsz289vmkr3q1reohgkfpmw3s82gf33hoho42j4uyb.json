@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 258.1338858604431,
+            "y": 136.5882271528244,
+            "width": 133.2230257987976,
+            "height": 62.938029170036316,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 216.56147003173828,
+            "y": 244.62819635868073,
+            "width": 158.30015659332275,
+            "height": 150.95522224903107,
+            "genre": "mujer",
+            "class": "bufandas"
+        },
+        {
+            "x": 65.07092714309692,
+            "y": 243.60439985990524,
+            "width": 383.98502111434937,
+            "height": 160.80318331718445,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "ox2fft1xglj2zyfsg92l56vsz289vmkr3q1reohgkfpmw3s82gf33hoho42j4uyb.jpg"
+}

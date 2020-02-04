@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 423.0440139770508,
+            "y": 768.5675472021103,
+            "width": 185.5131196975708,
+            "height": 283.74338150024414,
+            "genre": "bebe",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 753.5872864723206,
+            "y": 1118.060803413391,
+            "width": 245.17274379730225,
+            "height": 223.94438982009888,
+            "genre": "bebe",
+            "class": "zapatos"
+        },
+        {
+            "x": 373.13207387924194,
+            "y": 1052.630540728569,
+            "width": 498.2347869873047,
+            "height": 252.707701921463,
+            "genre": "bebe",
+            "class": "pantalones"
+        },
+        {
+            "x": 251.667240858078,
+            "y": 691.8020814657211,
+            "width": 577.4238646030426,
+            "height": 444.15144324302673,
+            "genre": "bebe",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "ekriyjigx4vaxgheq7ibi7ay9xeqkm7ti2k2yohmucgiva6hqz47fidy4wo6i7is.jpg"
+}

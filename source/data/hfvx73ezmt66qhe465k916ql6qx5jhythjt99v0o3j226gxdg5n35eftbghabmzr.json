@@ -1,0 +1,61 @@
+{
+    "arr_boxes": [
+        {
+            "x": 829.8335194587708,
+            "y": 924.696895480156,
+            "width": 64.7799825668335,
+            "height": 52.735018730163574,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 368.7715744972229,
+            "y": 536.5630120038986,
+            "width": 140.65446138381958,
+            "height": 120.1069325208664,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 365.05194067955017,
+            "y": 680.952975153923,
+            "width": 146.1423897743225,
+            "height": 336.1298203468323,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 359.7843933105469,
+            "y": 978.7654012441635,
+            "width": 226.4489507675171,
+            "height": 365.69071412086487,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 634.852352142334,
+            "y": 914.756253361702,
+            "width": 260.1237630844116,
+            "height": 436.9221121072769,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 592.7686214447021,
+            "y": 503.1444847583771,
+            "width": 386.744327545166,
+            "height": 560.6031954288483,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 273.65246057510376,
+            "y": 674.2016136646271,
+            "width": 357.7389407157898,
+            "height": 611.4694654941559,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "hfvx73ezmt66qhe465k916ql6qx5jhythjt99v0o3j226gxdg5n35eftbghabmzr.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 955.3941822052002,
+            "y": 765.553280711174,
+            "width": 68.16922187805176,
+            "height": 180.98875880241394,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 25.039751529693604,
+            "y": 863.7203603982925,
+            "width": 360.1680564880371,
+            "height": 235.12372970581055,
+            "genre": "hombre",
+            "class": "collares"
+        },
+        {
+            "x": 547.5868105888367,
+            "y": 595.8072692155838,
+            "width": 433.21765422821045,
+            "height": 241.41747951507568,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 92.7819550037384,
+            "y": 269.25812512636185,
+            "width": 597.2142541408539,
+            "height": 357.7569007873535,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        }
+    ],
+    "file_name": "qg8l67fijx9tkwd3dih03cax89uu5rnanknxwpjrph0y7sn0gjp8z91c3uriuqch.jpg"
+}

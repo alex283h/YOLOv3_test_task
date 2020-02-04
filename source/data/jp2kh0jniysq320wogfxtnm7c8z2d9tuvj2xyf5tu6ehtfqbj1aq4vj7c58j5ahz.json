@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 594.3812942504883,
+            "y": 250.2797770500183,
+            "width": 93.91984462738037,
+            "height": 56.98803126811981,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 663.6674523353577,
+            "y": 441.11316561698914,
+            "width": 102.30443000793457,
+            "height": 60.43583393096924,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 566.571249961853,
+            "y": 479.0792602300644,
+            "width": 129.01639938354492,
+            "height": 182.16060519218445,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 535.0940036773682,
+            "y": 302.3248779773712,
+            "width": 184.50053215026855,
+            "height": 212.16753959655762,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "jp2kh0jniysq320wogfxtnm7c8z2d9tuvj2xyf5tu6ehtfqbj1aq4vj7c58j5ahz.jpg"
+}

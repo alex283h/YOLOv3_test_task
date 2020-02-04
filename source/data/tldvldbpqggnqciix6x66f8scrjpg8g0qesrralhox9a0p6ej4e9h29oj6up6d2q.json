@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 405.2432334423065,
+            "y": 900.3902721405029,
+            "width": 160.46573996543884,
+            "height": 180.7877540588379,
+            "genre": "hombre",
+            "class": "mochilas"
+        },
+        {
+            "x": 563.8581848144531,
+            "y": 922.3315572738647,
+            "width": 180.1745367050171,
+            "height": 164.84796524047852,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 580.968918800354,
+            "y": 664.2061901092529,
+            "width": 188.4671974182129,
+            "height": 309.3321704864502,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "tldvldbpqggnqciix6x66f8scrjpg8g0qesrralhox9a0p6ej4e9h29oj6up6d2q.jpg"
+}

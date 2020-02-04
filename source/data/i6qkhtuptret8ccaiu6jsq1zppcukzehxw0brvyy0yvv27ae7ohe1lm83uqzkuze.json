@@ -1,0 +1,20 @@
+{
+    "arr_boxes": [
+        {
+            "x": 473.2429611682892,
+            "y": 709.0538904070854,
+            "width": 40.39567708969116,
+            "height": 71.79661190509796,
+            "class": "zapatos"
+        },
+        {
+            "x": 412.47721552848816,
+            "y": 392.2123976647854,
+            "width": 153.32876801490784,
+            "height": 182.80110386013985,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "i6qkhtuptret8ccaiu6jsq1zppcukzehxw0brvyy0yvv27ae7ohe1lm83uqzkuze.jpg"
+}

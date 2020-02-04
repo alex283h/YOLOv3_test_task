@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 834.2464828491211,
+            "y": 720.9727178812027,
+            "width": 136.3417911529541,
+            "height": 76.76106369495392,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 842.2319555282593,
+            "y": 299.38246887922287,
+            "width": 160.45141696929932,
+            "height": 191.4707956314087,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 849.653263092041,
+            "y": 159.02252520620823,
+            "width": 175.22927284240723,
+            "height": 203.91506533324718,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 840.5822682380676,
+            "y": 152.1274850666523,
+            "width": 171.06112003326416,
+            "height": 338.3687728345394,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "e7dwlo98yrq8vlgqvicvol1fusuvoo6gnout90k7efoixkv5sru11jz6j8q2amaj.jpg"
+}

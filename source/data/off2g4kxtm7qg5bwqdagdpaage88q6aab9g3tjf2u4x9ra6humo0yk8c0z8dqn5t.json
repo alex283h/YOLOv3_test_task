@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 186.14123766124249,
+            "y": 684.9728555083275,
+            "width": 79.40760533511639,
+            "height": 75.69209694862366,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 135.138840213418,
+            "y": 180.43075516819954,
+            "width": 114.59684436023235,
+            "height": 85.93264871835709,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 115.01961848884821,
+            "y": 476.2721358239651,
+            "width": 181.59162842482328,
+            "height": 233.19494357705116,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 67.36076617985964,
+            "y": 246.21202155947685,
+            "width": 204.896473698318,
+            "height": 256.3638263940811,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "off2g4kxtm7qg5bwqdagdpaage88q6aab9g3tjf2u4x9ra6humo0yk8c0z8dqn5t.jpg"
+}

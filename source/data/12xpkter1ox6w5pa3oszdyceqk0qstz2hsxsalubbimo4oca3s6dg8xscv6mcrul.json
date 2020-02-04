@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 437.2423195838928,
+            "y": 691.1995983123779,
+            "width": 65.45692920684814,
+            "height": 53.25901508331299,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 501.77340388298035,
+            "y": 711.6651320457458,
+            "width": 75.14181733131409,
+            "height": 48.43966484069824,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 413.74175906181335,
+            "y": 490.7294726371765,
+            "width": 126.6758930683136,
+            "height": 223.50040912628174,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 377.2706472873688,
+            "y": 323.1596875190735,
+            "width": 174.52062249183655,
+            "height": 219.7791337966919,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 521.8365740776062,
+            "y": 478.174706697464,
+            "width": 155.1925277709961,
+            "height": 249.41972136497498,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 525.2976858615875,
+            "y": 275.6612205505371,
+            "width": 175.65493941307068,
+            "height": 236.99878692626953,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "12xpkter1ox6w5pa3oszdyceqk0qstz2hsxsalubbimo4oca3s6dg8xscv6mcrul.jpg"
+}

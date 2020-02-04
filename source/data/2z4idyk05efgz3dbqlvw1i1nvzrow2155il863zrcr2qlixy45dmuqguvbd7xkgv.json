@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 303.6834383010864,
+            "y": 965.7743954658508,
+            "width": 149.62947607040405,
+            "height": 91.45010948181152,
+            "genre": "chica",
+            "class": "zapatos"
+        },
+        {
+            "x": 423.1563448905945,
+            "y": 974.7608685493469,
+            "width": 195.15445947647095,
+            "height": 96.03591442108154,
+            "genre": "chica",
+            "class": "zapatos"
+        },
+        {
+            "x": 284.8431944847107,
+            "y": 194.16498184204102,
+            "width": 238.54090690612793,
+            "height": 420.2246046066284,
+            "genre": "chica",
+            "class": "camisas"
+        },
+        {
+            "x": 302.70670652389526,
+            "y": 533.6078560352325,
+            "width": 257.8295087814331,
+            "height": 456.870778799057,
+            "genre": "chica",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "2z4idyk05efgz3dbqlvw1i1nvzrow2155il863zrcr2qlixy45dmuqguvbd7xkgv.jpg"
+}

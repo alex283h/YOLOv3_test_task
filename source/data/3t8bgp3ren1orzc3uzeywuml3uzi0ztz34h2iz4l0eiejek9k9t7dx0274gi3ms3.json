@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 385.6245267391205,
+            "y": 1042.5049592852592,
+            "width": 91.40627145767212,
+            "height": 107.63178622722626,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 586.5188384056091,
+            "y": 1050.1084623932838,
+            "width": 131.5324831008911,
+            "height": 99.57167983055115,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 509.1706681251526,
+            "y": 525.1804087460041,
+            "width": 165.45641899108887,
+            "height": 169.61200591921806,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 374.07803535461426,
+            "y": 303.37872940301895,
+            "width": 185.31414270401,
+            "height": 293.0425477027893,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 350.9785187244415,
+            "y": 551.5528910458088,
+            "width": 312.2700583934784,
+            "height": 505.1575573384762,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 282.2555601596832,
+            "y": 280.45389744639397,
+            "width": 385.56002497673035,
+            "height": 548.7477084696293,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "3t8bgp3ren1orzc3uzeywuml3uzi0ztz34h2iz4l0eiejek9k9t7dx0274gi3ms3.jpg"
+}

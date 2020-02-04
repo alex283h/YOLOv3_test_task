@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 334.9276864528656,
+            "y": 422.7197570800781,
+            "width": 125.26158571243286,
+            "height": 84.92655944824219,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 306.9560658931732,
+            "y": 199.3856544494629,
+            "width": 175.0143313407898,
+            "height": 233.38962745666504,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 516.7343366146088,
+            "y": 386.7948474884033,
+            "width": 328.0451166629791,
+            "height": 335.33469009399414,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "rgb6ph7gb1sg053074f6v84b2npqke3k3hyqawdqbhmx1kpn1mu7ujaffqgzj1vu.jpg"
+}

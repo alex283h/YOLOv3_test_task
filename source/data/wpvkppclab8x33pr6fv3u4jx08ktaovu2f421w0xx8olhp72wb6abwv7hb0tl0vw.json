@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 509.2820978164673,
+            "y": 582.4217534065247,
+            "width": 78.8197374343872,
+            "height": 107.61765003204346,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 480.9148406982422,
+            "y": 685.9497213363647,
+            "width": 93.3377194404602,
+            "height": 231.0182762145996,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 437.6844656467438,
+            "y": 552.7595686912537,
+            "width": 199.52850937843323,
+            "height": 265.10584831237793,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "wpvkppclab8x33pr6fv3u4jx08ktaovu2f421w0xx8olhp72wb6abwv7hb0tl0vw.jpg"
+}

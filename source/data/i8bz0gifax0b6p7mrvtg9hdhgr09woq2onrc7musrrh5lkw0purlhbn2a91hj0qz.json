@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 399.235782623291,
+            "y": 278.06922912597656,
+            "width": 41.069984436035156,
+            "height": 52.40495681762695,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 782.7858924865723,
+            "y": 576.2225532531738,
+            "width": 93.39019775390625,
+            "height": 68.64566802978516,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 579.5044898986816,
+            "y": 295.21227836608887,
+            "width": 239.15714263916016,
+            "height": 118.92631530761719,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 580.3977012634277,
+            "y": 574.6701622009277,
+            "width": 237.76302337646484,
+            "height": 357.33203887939453,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 511.64085388183594,
+            "y": 458.2221221923828,
+            "width": 360.1559829711914,
+            "height": 495.53592681884766,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 18.629722595214844,
+            "y": 435.55458068847656,
+            "width": 528.9162826538086,
+            "height": 547.126350402832,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "i8bz0gifax0b6p7mrvtg9hdhgr09woq2onrc7musrrh5lkw0purlhbn2a91hj0qz.jpg"
+}

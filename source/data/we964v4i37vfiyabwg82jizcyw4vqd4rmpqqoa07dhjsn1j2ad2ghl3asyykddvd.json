@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 495.7424247264862,
+            "y": 376.92432045936584,
+            "width": 150.743225812912,
+            "height": 158.17389965057373,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 529.0145194530487,
+            "y": 648.542754650116,
+            "width": 131.22519850730896,
+            "height": 341.5251159667969,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 461.82875633239746,
+            "y": 407.23644733428955,
+            "width": 252.82463550567627,
+            "height": 403.7424087524414,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "we964v4i37vfiyabwg82jizcyw4vqd4rmpqqoa07dhjsn1j2ad2ghl3asyykddvd.jpg"
+}

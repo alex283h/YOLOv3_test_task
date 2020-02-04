@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 63.2712721824646,
+            "y": 568.321681022644,
+            "width": 115.54563760757446,
+            "height": 78.5509318113327,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 11.829088926315308,
+            "y": 496.7454046010971,
+            "width": 220.9872704744339,
+            "height": 186.52709126472473,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 765.4906296730042,
+            "y": 917.7242517471313,
+            "width": 236.9057035446167,
+            "height": 227.1173357963562,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 13.493276238441467,
+            "y": 676.2436866760254,
+            "width": 532.0550984144211,
+            "height": 433.9626431465149,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "nl3lujask2datbah22pb2c811c5ibr5mwup6dmz8jqjb5icp3742gblf5cwcr9f4.jpg"
+}

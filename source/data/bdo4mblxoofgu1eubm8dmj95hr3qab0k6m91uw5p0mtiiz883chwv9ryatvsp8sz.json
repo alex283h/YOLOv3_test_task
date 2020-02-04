@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 327.23363041877747,
+            "y": 1289.5689457654953,
+            "width": 74.70391988754272,
+            "height": 59.59557294845581,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 361.4832293987274,
+            "y": 1109.5606684684753,
+            "width": 155.76712131500244,
+            "height": 198.4805166721344,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 365.97228169441223,
+            "y": 905.3478956222534,
+            "width": 167.30225086212158,
+            "height": 223.71731400489807,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "bdo4mblxoofgu1eubm8dmj95hr3qab0k6m91uw5p0mtiiz883chwv9ryatvsp8sz.jpg"
+}

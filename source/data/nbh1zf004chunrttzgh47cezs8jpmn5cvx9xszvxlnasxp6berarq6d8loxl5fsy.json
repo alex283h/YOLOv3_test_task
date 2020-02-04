@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 91.24578148126602,
+            "y": 611.9023901820183,
+            "width": 253.9378783106804,
+            "height": 155.90655386447906,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 373.8354778289795,
+            "y": 606.3853176236153,
+            "width": 223.60218286514282,
+            "height": 179.52369010448456,
+            "genre": "mujer",
+            "class": "sombreros"
+        }
+    ],
+    "file_name": "nbh1zf004chunrttzgh47cezs8jpmn5cvx9xszvxlnasxp6berarq6d8loxl5fsy.jpg"
+}

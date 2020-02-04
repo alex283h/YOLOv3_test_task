@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 155.5721515417099,
+            "y": 416.2712047100067,
+            "width": 90.55789947509766,
+            "height": 183.56923162937164,
+            "genre": "hombre",
+            "class": "pendientes"
+        },
+        {
+            "x": 123.19749712944031,
+            "y": 10.200286939740181,
+            "width": 599.8438274860382,
+            "height": 310.2612008303404,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 52.52088189125061,
+            "y": 590.1825777292252,
+            "width": 958.7019574642181,
+            "height": 657.7023873329163,
+            "class": "camisas"
+        }
+    ],
+    "file_name": "0n9yz0o9lmm2vh230wscu83h9kwhsapoz1ydyn9lah6ypu29lj1p67p9m6g5vstb.jpg"
+}

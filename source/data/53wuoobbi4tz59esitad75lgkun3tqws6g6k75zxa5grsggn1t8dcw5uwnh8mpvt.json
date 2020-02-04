@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 272.57869720458984,
+            "y": 122.75344401597977,
+            "width": 53.12469005584717,
+            "height": 37.36491501331329,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 269.5671558380127,
+            "y": 240.25067031383514,
+            "width": 63.39192867279053,
+            "height": 69.8644369840622,
+            "genre": "hombre",
+            "class": "falda"
+        },
+        {
+            "x": 265.703444480896,
+            "y": 165.9680074453354,
+            "width": 88.52937698364258,
+            "height": 89.27536368370056,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "53wuoobbi4tz59esitad75lgkun3tqws6g6k75zxa5grsggn1t8dcw5uwnh8mpvt.jpg"
+}

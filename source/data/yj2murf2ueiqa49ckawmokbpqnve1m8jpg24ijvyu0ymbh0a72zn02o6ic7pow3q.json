@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 446.6941452026367,
+            "y": 520.0716060996056,
+            "width": 36.990344524383545,
+            "height": 48.89671730995178,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 604.9620938301086,
+            "y": 518.8856612443924,
+            "width": 48.21822166442871,
+            "height": 50.64717900753021,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 492.79629707336426,
+            "y": 262.63282293081284,
+            "width": 69.85502243041992,
+            "height": 107.48924565315247,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 543.90789270401,
+            "y": 247.98136228322983,
+            "width": 97.41362571716309,
+            "height": 149.53476977348328,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 414.832946062088,
+            "y": 246.3638259768486,
+            "width": 118.83883237838745,
+            "height": 134.74473965168,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 555.9805369377136,
+            "y": 239.65583330392838,
+            "width": 86.89713478088379,
+            "height": 199.79916417598724,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "yj2murf2ueiqa49ckawmokbpqnve1m8jpg24ijvyu0ymbh0a72zn02o6ic7pow3q.jpg"
+}

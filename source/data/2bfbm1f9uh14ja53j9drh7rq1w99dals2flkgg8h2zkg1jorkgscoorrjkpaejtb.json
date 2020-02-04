@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 516.6891574859619,
+            "y": 166.85202196240425,
+            "width": 54.29975509643555,
+            "height": 48.014404624700546,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 6.051519513130188,
+            "y": 111.87446862459183,
+            "width": 104.1491836309433,
+            "height": 53.63350510597229,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 279.8647356033325,
+            "y": 75.6376464664936,
+            "width": 116.83608055114746,
+            "height": 62.114328145980835,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 454.8890018463135,
+            "y": 125.90389162302017,
+            "width": 240.59921264648438,
+            "height": 264.2456156015396,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 120.79657673835754,
+            "y": 130.35156816244125,
+            "width": 339.27217841148376,
+            "height": 262.9191291332245,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "2bfbm1f9uh14ja53j9drh7rq1w99dals2flkgg8h2zkg1jorkgscoorrjkpaejtb.jpg"
+}

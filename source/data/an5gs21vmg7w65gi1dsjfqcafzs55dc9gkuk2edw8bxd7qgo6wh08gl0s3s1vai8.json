@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 565.6993818283081,
+            "y": 772.9602009057999,
+            "width": 51.712260246276855,
+            "height": 44.9816107749939,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 488.4725546836853,
+            "y": 1195.7466423511505,
+            "width": 104.68751907348633,
+            "height": 147.29495644569397,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 386.98450326919556,
+            "y": 891.7215764522552,
+            "width": 300.854115486145,
+            "height": 322.3288893699646,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 370.825138092041,
+            "y": 712.4969601631165,
+            "width": 312.5376892089844,
+            "height": 310.3735327720642,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "an5gs21vmg7w65gi1dsjfqcafzs55dc9gkuk2edw8bxd7qgo6wh08gl0s3s1vai8.jpg"
+}

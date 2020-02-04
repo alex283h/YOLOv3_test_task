@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 367.814701795578,
+            "y": 1023.8940238952637,
+            "width": 181.91566586494446,
+            "height": 59.536542892456055,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 240.59599936008453,
+            "y": 948.8542699813843,
+            "width": 131.10126435756683,
+            "height": 113.2002067565918,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 572.6161336898804,
+            "y": 687.4796104431152,
+            "width": 315.00781059265137,
+            "height": 386.108193397522,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "qq2jkov3305sxfyzk8ujcrt4y6dsfo34rz00bz32va7ai80y89ionjsc13a3pv0y.jpg"
+}

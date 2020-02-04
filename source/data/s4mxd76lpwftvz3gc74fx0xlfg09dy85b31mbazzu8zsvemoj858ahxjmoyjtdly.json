@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 486.2062704563141,
+            "y": 703.8385963439941,
+            "width": 162.4663245677948,
+            "height": 180.02660751342773,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 480.6683564186096,
+            "y": 498.56431245803833,
+            "width": 221.82220458984375,
+            "height": 270.6878900527954,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 717.350492477417,
+            "y": 476.9440233707428,
+            "width": 291.2591886520386,
+            "height": 226.09686255455017,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "s4mxd76lpwftvz3gc74fx0xlfg09dy85b31mbazzu8zsvemoj858ahxjmoyjtdly.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 561.1606979370117,
+            "y": 925.3485918045044,
+            "width": 58.70226860046387,
+            "height": 93.71011734008789,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 454.81409311294556,
+            "y": 955.1469254493713,
+            "width": 61.13041877746582,
+            "height": 106.67831897735596,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 434.3484950065613,
+            "y": 637.2212147712708,
+            "width": 158.70735883712769,
+            "height": 88.04078578948975,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        }
+    ],
+    "file_name": "kv4a7jf6bhm6rvlvt4b0pjji8b7gc03ig0n21k4ned3i1ru98n3encak7r429yrb.jpg"
+}

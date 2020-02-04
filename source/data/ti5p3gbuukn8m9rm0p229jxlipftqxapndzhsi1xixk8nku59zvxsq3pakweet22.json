@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 306.8796071410179,
+            "y": 1004.4502766132355,
+            "width": 108.77691972255707,
+            "height": 93.18767023086548,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 184.70647341012955,
+            "y": 961.4147737026215,
+            "width": 137.4775692820549,
+            "height": 87.42847394943237,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 250.15813875198364,
+            "y": 707.3199706077576,
+            "width": 300.30752885341644,
+            "height": 333.7583656311035,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "ti5p3gbuukn8m9rm0p229jxlipftqxapndzhsi1xixk8nku59zvxsq3pakweet22.jpg"
+}

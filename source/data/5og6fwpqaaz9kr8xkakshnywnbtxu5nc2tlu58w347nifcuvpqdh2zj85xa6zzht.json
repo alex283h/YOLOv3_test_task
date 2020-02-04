@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 389.5599067211151,
+            "y": 832.7285259962082,
+            "width": 169.7635853290558,
+            "height": 144.47101652622223,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 375.35606503486633,
+            "y": 596.3893949985504,
+            "width": 171.20457530021667,
+            "height": 277.51702904701233,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 529.1638648509979,
+            "y": 619.0147858858109,
+            "width": 144.31706070899963,
+            "height": 346.1203598976135,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "5og6fwpqaaz9kr8xkakshnywnbtxu5nc2tlu58w347nifcuvpqdh2zj85xa6zzht.jpg"
+}

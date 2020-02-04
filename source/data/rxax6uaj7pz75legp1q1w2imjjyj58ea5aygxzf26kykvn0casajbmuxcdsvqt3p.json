@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 527.0901846885681,
+            "y": 629.0299381613731,
+            "width": 55.50151348114014,
+            "height": 23.836206078529358,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 437.7472937107086,
+            "y": 908.5234070420265,
+            "width": 53.17436456680298,
+            "height": 55.71979737281799,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 575.0080418586731,
+            "y": 902.009171962738,
+            "width": 62.695326805114746,
+            "height": 64.89391922950745,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 504.6898877620697,
+            "y": 664.8480563163757,
+            "width": 87.66945004463196,
+            "height": 117.18959784507751,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 458.8823711872101,
+            "y": 642.0328590273857,
+            "width": 181.98325753211975,
+            "height": 141.9364628791809,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 434.8445212841034,
+            "y": 757.9706057310104,
+            "width": 211.63527131080627,
+            "height": 168.69273483753204,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "rxax6uaj7pz75legp1q1w2imjjyj58ea5aygxzf26kykvn0casajbmuxcdsvqt3p.jpg"
+}

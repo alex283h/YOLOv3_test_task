@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 78.21949124336243,
+            "y": 1051.4309430122375,
+            "width": 273.0721378326416,
+            "height": 104.97225284576416,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 154.91516053676605,
+            "y": 665.3489589691162,
+            "width": 234.57873165607452,
+            "height": 210.82329273223877,
+            "genre": "mujer",
+            "class": "bufandas"
+        },
+        {
+            "x": 111.50661706924438,
+            "y": 711.3515591621399,
+            "width": 334.08880949020386,
+            "height": 457.3727011680603,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 43.54181170463562,
+            "y": 723.1760501861572,
+            "width": 467.0317053794861,
+            "height": 437.31969356536865,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "c3o39xqhn5k646vdscawvrv7j6n2njcf5xuxe2qdkrozq2ku0n2s2u88xbt3khie.jpg"
+}

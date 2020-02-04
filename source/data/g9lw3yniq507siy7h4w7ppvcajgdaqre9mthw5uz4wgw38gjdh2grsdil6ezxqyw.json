@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 390.443923830986,
+            "y": 790.8236812949181,
+            "width": 41.53202784061432,
+            "height": 47.96914780139923,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 386.6137112081051,
+            "y": 529.0755584836006,
+            "width": 54.13188752532005,
+            "height": 105.25885856151581,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 383.7995753288269,
+            "y": 620.8698990941048,
+            "width": 62.138335168361664,
+            "height": 179.3905327320099,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "g9lw3yniq507siy7h4w7ppvcajgdaqre9mthw5uz4wgw38gjdh2grsdil6ezxqyw.jpg"
+}

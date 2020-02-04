@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 433.52323293685913,
+            "y": 499.00469264388084,
+            "width": 116.79054737091064,
+            "height": 60.136306166648865,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 453.75551104545593,
+            "y": 670.6260068416595,
+            "width": 112.31697678565979,
+            "height": 132.8186252117157,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 255.89149475097656,
+            "y": 1090.351536154747,
+            "width": 211.1603593826294,
+            "height": 165.604443192482,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 219.08965051174164,
+            "y": 658.5911391377449,
+            "width": 509.8170214891434,
+            "height": 595.5218390226364,
+            "genre": "mujer",
+            "class": "monos"
+        }
+    ],
+    "file_name": "b32vbpwy7a66uwmgnogix5qu74gjqm4v5h9wkvvfyxtjj1cwgtr7jdtixbtitr1i.jpg"
+}

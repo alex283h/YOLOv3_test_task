@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 479.79491114616394,
+            "y": 466.3984822630882,
+            "width": 53.115785121917725,
+            "height": 32.991610407829285,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 376.93188428878784,
+            "y": 410.74751353263855,
+            "width": 320.37001848220825,
+            "height": 294.9802210330963,
+            "genre": "hombre",
+            "class": "vestidos"
+        },
+        {
+            "x": 317.9971647262573,
+            "y": 382.5409488081932,
+            "width": 317.36894845962524,
+            "height": 327.81110513210297,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "bjdo25tpfw590ys5ikcs40radxq8nyvk0w080zgdilmpz7qehjen8by0qvfq73vq.jpg"
+}

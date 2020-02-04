@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 584.4092702865601,
+            "y": 425.199611723423,
+            "width": 32.07527160644531,
+            "height": 52.523903131484985,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 140.95221877098083,
+            "y": 643.1469125151634,
+            "width": 91.60280227661133,
+            "height": 168.41213124990463,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 562.7662897109985,
+            "y": 459.654505610466,
+            "width": 173.24053287506104,
+            "height": 239.9211301803589,
+            "genre": "mujer",
+            "class": "bufandas"
+        }
+    ],
+    "file_name": "zhym11f1nlmljlyipiny42kdovbbrhf3ykk5guuenclc4rbwthjbcq4mu52hl4cp.jpg"
+}

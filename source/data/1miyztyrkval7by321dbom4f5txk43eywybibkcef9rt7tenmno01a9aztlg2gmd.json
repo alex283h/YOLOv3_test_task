@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 529.2576026916504,
+            "y": 601.6605091094971,
+            "width": 45.60201644897461,
+            "height": 59.893341064453125,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 527.0693063735962,
+            "y": 446.6644048690796,
+            "width": 96.53274536132812,
+            "height": 193.46717834472656,
+            "genre": "mujer",
+            "class": "calcetines y medias"
+        },
+        {
+            "x": 482.4456310272217,
+            "y": 252.44097232818604,
+            "width": 179.0448760986328,
+            "height": 214.56140041351318,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "1miyztyrkval7by321dbom4f5txk43eywybibkcef9rt7tenmno01a9aztlg2gmd.jpg"
+}

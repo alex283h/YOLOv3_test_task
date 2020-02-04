@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 347.2658371925354,
+            "y": 294.50085282325745,
+            "width": 227.3459243774414,
+            "height": 213.5651421546936,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 369.43159103393555,
+            "y": 933.7498497962952,
+            "width": 341.80758476257324,
+            "height": 150.06656885147095,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 322.13786244392395,
+            "y": 585.2685856819153,
+            "width": 445.60691714286804,
+            "height": 511.6047406196594,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "mu267zr1h4x3ajvpr7n1757r1f1cvnh7hfjpqfdhacptssi6bw0n7t91hvbuqevo.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 561.7957377433777,
+            "y": 703.3613294363022,
+            "width": 163.51763248443604,
+            "height": 345.68723225593567,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 474.36227917671204,
+            "y": 985.85149538517,
+            "width": 340.21464228630066,
+            "height": 351.02462673187256,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 419.95571851730347,
+            "y": 637.7301925420761,
+            "width": 448.2745027542114,
+            "height": 524.7948492765427,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "tr050ngoh23dd6gg20023oqrhbiopyv12zr71zkv4c9ck8xe1hpdc35hopmirl32.jpg"
+}

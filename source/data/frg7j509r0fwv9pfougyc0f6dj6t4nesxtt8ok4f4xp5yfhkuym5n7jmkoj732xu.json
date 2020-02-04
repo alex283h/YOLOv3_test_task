@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 841.437656879425,
+            "y": 185.8364149928093,
+            "width": 94.99049663543701,
+            "height": 62.49755358695984,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 834.6208763122559,
+            "y": 470.1089068055153,
+            "width": 125.87357997894287,
+            "height": 268.81438368558884,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 746.8025636672974,
+            "y": 259.81832110881805,
+            "width": 290.6316804885864,
+            "height": 295.4217553138733,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "frg7j509r0fwv9pfougyc0f6dj6t4nesxtt8ok4f4xp5yfhkuym5n7jmkoj732xu.jpg"
+}

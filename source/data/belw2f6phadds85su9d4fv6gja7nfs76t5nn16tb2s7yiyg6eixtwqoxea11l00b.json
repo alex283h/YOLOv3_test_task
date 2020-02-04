@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 568.2969617843628,
+            "y": 555.8776929974556,
+            "width": 89.63324546813965,
+            "height": 53.67470383644104,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 856.2759590148926,
+            "y": 740.7812565565109,
+            "width": 143.00954818725586,
+            "height": 267.8736627101898,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 806.7621660232544,
+            "y": 531.3220024108887,
+            "width": 196.36950016021729,
+            "height": 232.7652633190155,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 529.0658247470856,
+            "y": 932.1916043758392,
+            "width": 171.02497458457947,
+            "height": 427.8422176837921,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 464.0995144844055,
+            "y": 643.8364997506142,
+            "width": 262.6881265640259,
+            "height": 317.6897272467613,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "belw2f6phadds85su9d4fv6gja7nfs76t5nn16tb2s7yiyg6eixtwqoxea11l00b.jpg"
+}

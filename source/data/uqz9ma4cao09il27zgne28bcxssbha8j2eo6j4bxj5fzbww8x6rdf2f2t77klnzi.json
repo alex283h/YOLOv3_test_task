@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 822.4528956413269,
+            "y": 504.30128395557404,
+            "width": 64.18620586395264,
+            "height": 74.43928241729736,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 78.20787996053696,
+            "y": 507.59835720062256,
+            "width": 128.51898103952408,
+            "height": 159.03083324432373,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "uqz9ma4cao09il27zgne28bcxssbha8j2eo6j4bxj5fzbww8x6rdf2f2t77klnzi.jpg"
+}

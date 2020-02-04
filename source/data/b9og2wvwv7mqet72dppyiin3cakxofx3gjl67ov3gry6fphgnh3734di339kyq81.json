@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 410.0900065898895,
+            "y": 352.5226455926895,
+            "width": 45.180137157440186,
+            "height": 53.29398274421692,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 554.8132610321045,
+            "y": 750.8670580387115,
+            "width": 71.10218524932861,
+            "height": 87.62328386306763,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 493.07599782943726,
+            "y": 417.49721801280975,
+            "width": 120.06198406219482,
+            "height": 100.17107391357422,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 207.7087104320526,
+            "y": 506.60666704177856,
+            "width": 668.5969126224518,
+            "height": 684.3464183807373,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "b9og2wvwv7mqet72dppyiin3cakxofx3gjl67ov3gry6fphgnh3734di339kyq81.jpg"
+}

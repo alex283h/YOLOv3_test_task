@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 651.760311126709,
+            "y": 665.0359019637108,
+            "width": 101.39290809631348,
+            "height": 161.45215183496475,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 472.9945135116577,
+            "y": 818.2186961174011,
+            "width": 247.1967601776123,
+            "height": 388.76489996910095,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 440.28400897979736,
+            "y": 438.9799162745476,
+            "width": 263.92975330352783,
+            "height": 415.9869208931923,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "99rkbrolyfmlc71kxo1742hubn2tyua3px9tipq4vohf5sp1yy331k70p3d8x7x9.jpg"
+}

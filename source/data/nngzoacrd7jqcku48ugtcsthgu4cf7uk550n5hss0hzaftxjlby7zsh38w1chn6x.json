@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 279.74353194236755,
+            "y": 515.097148001194,
+            "width": 151.02817296981812,
+            "height": 176.66412961483002,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 458.08507919311523,
+            "y": 516.6926243305206,
+            "width": 190.6355381011963,
+            "height": 155.4308248758316,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 4.112277030944824,
+            "y": 540.4364182949066,
+            "width": 253.7878006696701,
+            "height": 172.58512032032013,
+            "class": "bolso"
+        }
+    ],
+    "file_name": "nngzoacrd7jqcku48ugtcsthgu4cf7uk550n5hss0hzaftxjlby7zsh38w1chn6x.jpg"
+}

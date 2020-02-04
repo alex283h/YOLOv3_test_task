@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 571.2106776237488,
+            "y": 216.24610126018524,
+            "width": 40.35956382751465,
+            "height": 44.1559624671936,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 138.5857057571411,
+            "y": 689.5535802841187,
+            "width": 644.5008373260498,
+            "height": 405.5041694641113,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 282.7727007865906,
+            "y": 259.81425762176514,
+            "width": 493.04020643234253,
+            "height": 607.9368352890015,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "o6dphefvgqg1sgmknk7rr5n4cbvuwzajwxn3pb3rs0prsp9fga2zrry0viehc2he.jpg"
+}

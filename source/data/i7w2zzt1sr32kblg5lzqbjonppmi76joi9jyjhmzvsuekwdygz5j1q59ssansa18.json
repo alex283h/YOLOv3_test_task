@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 749.4979906082153,
+            "y": 565.8012843132019,
+            "width": 264.56987857818604,
+            "height": 310.4825162887573,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 507.324321269989,
+            "y": 498.0489420890808,
+            "width": 268.4317445755005,
+            "height": 362.16400623321533,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 0.0,
+            "y": 508.71580839157104,
+            "width": 412.1427011489868,
+            "height": 357.0878076553345,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "i7w2zzt1sr32kblg5lzqbjonppmi76joi9jyjhmzvsuekwdygz5j1q59ssansa18.jpg"
+}

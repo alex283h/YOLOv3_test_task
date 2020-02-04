@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 481.40597462654114,
+            "y": 678.6970227956772,
+            "width": 59.94585871696472,
+            "height": 66.64248704910278,
+            "genre": "hombre",
+            "class": "anillos"
+        },
+        {
+            "x": 252.25813686847687,
+            "y": 170.20575553178787,
+            "width": 275.74852645397186,
+            "height": 166.10953956842422,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 1.2706589698791504,
+            "y": 637.6127555966377,
+            "width": 530.1201581954956,
+            "height": 684.13215726614,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "3bny1j2dpnl41jztssb3afoot8cr7i84mefzxg4mxxltoa7wr0u6wy3tcszxdtnm.jpg"
+}

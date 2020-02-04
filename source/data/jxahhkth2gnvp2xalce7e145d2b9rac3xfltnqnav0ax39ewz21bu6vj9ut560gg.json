@@ -1,0 +1,61 @@
+{
+    "arr_boxes": [
+        {
+            "x": 630.5783700942993,
+            "y": 645.2989339828491,
+            "width": 54.42120552062988,
+            "height": 43.72440576553345,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 645.3872537612915,
+            "y": 1234.7919344902039,
+            "width": 58.42636585235596,
+            "height": 99.81518983840942,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 479.9656283855438,
+            "y": 1211.5251928567886,
+            "width": 88.88410449028015,
+            "height": 119.99500393867493,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 603.3072566986084,
+            "y": 724.1972386837006,
+            "width": 89.00509357452393,
+            "height": 136.79780960083008,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 556.5224933624268,
+            "y": 777.5722056627274,
+            "width": 187.69085884094238,
+            "height": 224.063640832901,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 538.4061241149902,
+            "y": 689.7291094064713,
+            "width": 211.76211833953857,
+            "height": 222.78889417648315,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 537.644784450531,
+            "y": 964.7992730140686,
+            "width": 187.6181173324585,
+            "height": 308.9729368686676,
+            "genre": "mujer",
+            "class": "calcetines y medias"
+        }
+    ],
+    "file_name": "jxahhkth2gnvp2xalce7e145d2b9rac3xfltnqnav0ax39ewz21bu6vj9ut560gg.jpg"
+}

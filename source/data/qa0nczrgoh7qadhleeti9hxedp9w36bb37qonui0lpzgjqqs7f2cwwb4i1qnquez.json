@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 555.8143258094788,
+            "y": 769.7121798992157,
+            "width": 152.3781394958496,
+            "height": 76.39065384864807,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 490.01081228256226,
+            "y": 875.3058135509491,
+            "width": 417.5061321258545,
+            "height": 459.0607166290283,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "qa0nczrgoh7qadhleeti9hxedp9w36bb37qonui0lpzgjqqs7f2cwwb4i1qnquez.jpg"
+}

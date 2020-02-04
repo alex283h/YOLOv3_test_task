@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 335.6226921081543,
+            "y": 89.5319661796093,
+            "width": 143.36872100830078,
+            "height": 121.49987924098969,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 304.9912452697754,
+            "y": 317.35644710063934,
+            "width": 200.90885162353516,
+            "height": 219.2630900144577,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 103.80644798278809,
+            "y": 255.54107716679573,
+            "width": 596.9743728637695,
+            "height": 300.36825582385063,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "iy8l57mo7noe10f22haf2zc1ivxlr4qcdkwqelc25ht0xd6c76v54ee4h4jnzfeh.jpg"
+}

@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 101.94556653499603,
+            "y": 543.1247391700745,
+            "width": 146.98364853858948,
+            "height": 254.48008739948273,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 39.33485805988312,
+            "y": 216.92243403196335,
+            "width": 279.7355979681015,
+            "height": 252.21838080883026,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 296.58605575561523,
+            "y": 99.40695905685425,
+            "width": 775.589919090271,
+            "height": 699.579038143158,
+            "class": "zapatos"
+        }
+    ],
+    "file_name": "hbkyw2nua89j2t8hya2rb3gnu0brei2uogqtyc5fdwmmu39zi12t8kltgetruq7f.jpg"
+}

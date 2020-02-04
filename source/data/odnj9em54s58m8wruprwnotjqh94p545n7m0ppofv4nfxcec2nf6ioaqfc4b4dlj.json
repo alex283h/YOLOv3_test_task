@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 713.3069014549255,
+            "y": 704.5965242385864,
+            "width": 50.69490909576416,
+            "height": 59.326815605163574,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 707.834165096283,
+            "y": 380.28352975845337,
+            "width": 50.884294509887695,
+            "height": 98.74614715576172,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 417.7114498615265,
+            "y": 447.7140712738037,
+            "width": 435.016268491745,
+            "height": 515.4292058944702,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "odnj9em54s58m8wruprwnotjqh94p545n7m0ppofv4nfxcec2nf6ioaqfc4b4dlj.jpg"
+}

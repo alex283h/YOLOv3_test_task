@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 413.6610996723175,
+            "y": 569.6155858039856,
+            "width": 65.07159233093262,
+            "height": 77.89496421813965,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 765.1457190513611,
+            "y": 562.1213161945343,
+            "width": 75.43371677398682,
+            "height": 84.94002223014832,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 591.8216943740845,
+            "y": 804.0185809135437,
+            "width": 79.37926769256592,
+            "height": 141.43672943115234,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 496.98524236679077,
+            "y": 862.5238108634949,
+            "width": 239.7973394393921,
+            "height": 308.2124638557434,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 345.5099666118622,
+            "y": 698.3190298080444,
+            "width": 571.7855608463287,
+            "height": 473.75139713287354,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "1gky0yzouilaka1aoeaamicabmvhnnmwx1b3okrly7bap8al1bskb3w7lp17r8d7.jpg"
+}

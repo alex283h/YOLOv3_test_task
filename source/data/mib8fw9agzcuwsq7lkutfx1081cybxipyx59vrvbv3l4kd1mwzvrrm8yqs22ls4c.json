@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 633.9093518257141,
+            "y": 200.84128439426422,
+            "width": 461.3940453529358,
+            "height": 342.9000109434128,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 283.189902305603,
+            "y": 662.3809576034546,
+            "width": 815.3156661987305,
+            "height": 418.20818424224854,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "mib8fw9agzcuwsq7lkutfx1081cybxipyx59vrvbv3l4kd1mwzvrrm8yqs22ls4c.jpg"
+}

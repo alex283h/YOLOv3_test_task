@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 280.90856432914734,
+            "y": 223.672976821661,
+            "width": 84.26774668693542,
+            "height": 51.27861702442169,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 280.5038668215275,
+            "y": 275.8686938583851,
+            "width": 90.33555686473846,
+            "height": 75.64507752656937,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 254.68454092741013,
+            "y": 594.4868406653404,
+            "width": 205.8615978360176,
+            "height": 295.6987645626068,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "swim1curn56nm3btf4id3abrn69oaftsvyc679o6n52eet5of10v0okj73vlzobz.jpg"
+}

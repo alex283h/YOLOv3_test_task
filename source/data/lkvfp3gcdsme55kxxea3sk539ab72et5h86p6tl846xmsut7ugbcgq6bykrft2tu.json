@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 592.3208427429199,
+            "y": 809.9820882081985,
+            "width": 82.78318405151367,
+            "height": 65.63231348991394,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 559.3780159950256,
+            "y": 560.3800624608994,
+            "width": 245.97096920013428,
+            "height": 220.18186748027802,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 459.3366837501526,
+            "y": 839.853098988533,
+            "width": 306.946120262146,
+            "height": 512.2675091028214,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "lkvfp3gcdsme55kxxea3sk539ab72et5h86p6tl846xmsut7ugbcgq6bykrft2tu.jpg"
+}

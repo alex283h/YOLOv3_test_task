@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 166.0370635986328,
+            "y": 634.3256521224976,
+            "width": 258.9403295516968,
+            "height": 246.42093658447266,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 266.3044899702072,
+            "y": 735.3168725967407,
+            "width": 398.1698137521744,
+            "height": 335.9084415435791,
+            "genre": "hombre",
+            "class": "pantalones cortos"
+        }
+    ],
+    "file_name": "f03c50sdaf8t63wcmi29yd4rh15bmm63167osn76wu72gf53965atl12ikf01vwr.jpg"
+}

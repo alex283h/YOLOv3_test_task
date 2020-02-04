@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 752.1236913204193,
+            "y": 451.0108739733696,
+            "width": 41.77887177467346,
+            "height": 33.94312262535095,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 550.7797376513481,
+            "y": 464.47259402275085,
+            "width": 221.4914095401764,
+            "height": 97.31179940700531,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 517.7580677270889,
+            "y": 235.41309374570847,
+            "width": 287.72255408763885,
+            "height": 266.00881791114807,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "37ruzixvitc1ednmjhv95uv5dlt5t1kx89kqgxfvokr1xm0wrf5kaer6c27bkcrt.jpg"
+}

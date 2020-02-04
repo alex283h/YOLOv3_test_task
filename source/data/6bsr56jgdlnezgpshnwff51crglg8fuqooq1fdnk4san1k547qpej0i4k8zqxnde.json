@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 592.4582147598267,
+            "y": 1161.3059159517288,
+            "width": 114.16773319244385,
+            "height": 191.4945855140686,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 418.85465025901794,
+            "y": 1159.3504258394241,
+            "width": 121.13662719726562,
+            "height": 198.5837196111679,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 429.8295736312866,
+            "y": 575.7654789984226,
+            "width": 209.91905450820923,
+            "height": 203.10776045918465,
+            "genre": "mujer",
+            "class": "bolso"
+        }
+    ],
+    "file_name": "6bsr56jgdlnezgpshnwff51crglg8fuqooq1fdnk4san1k547qpej0i4k8zqxnde.jpg"
+}

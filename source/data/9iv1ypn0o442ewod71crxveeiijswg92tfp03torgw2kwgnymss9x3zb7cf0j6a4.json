@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 706.0221290588379,
+            "y": 820.7776942253113,
+            "width": 169.76451873779297,
+            "height": 102.29873323440552,
+            "genre": "mujer",
+            "class": "bufandas"
+        },
+        {
+            "x": 718.4353065490723,
+            "y": 601.8061604499817,
+            "width": 177.87307262420654,
+            "height": 171.05594444274902,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 606.952314376831,
+            "y": 779.8734936714172,
+            "width": 395.3445625305176,
+            "height": 369.31828260421753,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "9iv1ypn0o442ewod71crxveeiijswg92tfp03torgw2kwgnymss9x3zb7cf0j6a4.jpg"
+}

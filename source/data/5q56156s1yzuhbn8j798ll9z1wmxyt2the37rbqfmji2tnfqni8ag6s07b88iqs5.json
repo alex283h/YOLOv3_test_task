@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 375.7170045375824,
+            "y": 828.2764971256256,
+            "width": 213.7409770488739,
+            "height": 167.8136944770813,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 35.10088384151459,
+            "y": 664.4145414233208,
+            "width": 321.7791920900345,
+            "height": 141.9536456465721,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 622.9546737670898,
+            "y": 926.0192781686783,
+            "width": 296.6500425338745,
+            "height": 166.7851746082306,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        }
+    ],
+    "file_name": "5q56156s1yzuhbn8j798ll9z1wmxyt2the37rbqfmji2tnfqni8ag6s07b88iqs5.jpg"
+}

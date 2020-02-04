@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 541.464421749115,
+            "y": 788.7504029273987,
+            "width": 140.12975692749023,
+            "height": 279.9041748046875,
+            "genre": "mujer",
+            "class": "calcetines y medias"
+        },
+        {
+            "x": 410.61760783195496,
+            "y": 726.8008375167847,
+            "width": 147.43722081184387,
+            "height": 345.69236755371094,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 373.0772924423218,
+            "y": 435.5186355113983,
+            "width": 193.42919826507568,
+            "height": 325.1107370853424,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "7v9ms6uppbpiwmx04fa1v0bs8kxgrkgcez9e9tycunly4ewok6t0dabe25jmzdwy.jpg"
+}

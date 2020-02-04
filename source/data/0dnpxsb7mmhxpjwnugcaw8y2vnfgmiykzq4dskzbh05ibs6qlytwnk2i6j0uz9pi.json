@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 436.6636383533478,
+            "y": 517.6338220834732,
+            "width": 58.944761753082275,
+            "height": 35.28184473514557,
+            "class": "pulseras"
+        },
+        {
+            "x": 699.0263271331787,
+            "y": 573.1383475065231,
+            "width": 57.08302974700928,
+            "height": 53.331910848617554,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 607.8102779388428,
+            "y": 317.67429810762405,
+            "width": 355.0393295288086,
+            "height": 403.2819806933403,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "0dnpxsb7mmhxpjwnugcaw8y2vnfgmiykzq4dskzbh05ibs6qlytwnk2i6j0uz9pi.jpg"
+}

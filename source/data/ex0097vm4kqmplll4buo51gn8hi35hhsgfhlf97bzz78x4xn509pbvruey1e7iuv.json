@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 138.36827516555786,
+            "y": 496.95539474487305,
+            "width": 92.74379253387451,
+            "height": 50.37531852722168,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 184.10841464996338,
+            "y": 546.5555763244629,
+            "width": 100.86818218231201,
+            "height": 56.01585388183594,
+            "genre": "hombre",
+            "class": "zapatos"
+        }
+    ],
+    "file_name": "ex0097vm4kqmplll4buo51gn8hi35hhsgfhlf97bzz78x4xn509pbvruey1e7iuv.jpg"
+}

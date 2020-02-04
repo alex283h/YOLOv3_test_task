@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 185.63661932945251,
+            "y": 907.5992774963379,
+            "width": 154.03764367103577,
+            "height": 98.31021308898926,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 589.3695974349976,
+            "y": 238.18949460983276,
+            "width": 162.1382474899292,
+            "height": 149.9342179298401,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 489.61076617240906,
+            "y": 472.7178382873535,
+            "width": 267.17695355415344,
+            "height": 292.38404273986816,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "m8vbj2moo46ksn5pen7nqhbhjfjsry0yewtl392fzbzthx52u0e2nvrpx2tcjfqp.jpg"
+}

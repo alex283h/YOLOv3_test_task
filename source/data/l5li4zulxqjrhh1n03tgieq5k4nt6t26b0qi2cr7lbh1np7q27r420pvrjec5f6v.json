@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 589.5181703567505,
+            "y": 399.4196802377701,
+            "width": 124.92073059082031,
+            "height": 75.04582107067108,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 165.36871075630188,
+            "y": 802.9427379369736,
+            "width": 253.85544061660767,
+            "height": 325.5678176879883,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 411.9976043701172,
+            "y": 515.2034819126129,
+            "width": 614.8601531982422,
+            "height": 723.9601850509644,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "l5li4zulxqjrhh1n03tgieq5k4nt6t26b0qi2cr7lbh1np7q27r420pvrjec5f6v.jpg"
+}

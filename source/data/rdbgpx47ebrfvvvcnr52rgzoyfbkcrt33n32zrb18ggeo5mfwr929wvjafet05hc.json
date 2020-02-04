@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 398.6052167415619,
+            "y": 482.7998757362366,
+            "width": 248.19064736366272,
+            "height": 152.67589688301086,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 325.71993112564087,
+            "y": 1143.3472484350204,
+            "width": 432.19502449035645,
+            "height": 169.85689401626587,
+            "genre": "mujer",
+            "class": "cinturones"
+        },
+        {
+            "x": 140.95810890197754,
+            "y": 611.5019738674164,
+            "width": 737.1385645866394,
+            "height": 705.295068025589,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "rdbgpx47ebrfvvvcnr52rgzoyfbkcrt33n32zrb18ggeo5mfwr929wvjafet05hc.jpg"
+}

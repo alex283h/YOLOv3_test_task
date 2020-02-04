@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 258.1616735458374,
+            "y": 454.1061544418335,
+            "width": 95.4336404800415,
+            "height": 142.62341952323914,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 435.61838150024414,
+            "y": 263.70729357004166,
+            "width": 189.3245816230774,
+            "height": 179.4326736330986,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 409.4105815887451,
+            "y": 318.8003640174866,
+            "width": 205.72624683380127,
+            "height": 412.94569301605225,
+            "genre": "mujer",
+            "class": "mochilas"
+        }
+    ],
+    "file_name": "unizmfceovd9j0njr4w97kynisagvvoyl3c2ckqe0b1df3y089do2bein1sf6yc1.jpg"
+}

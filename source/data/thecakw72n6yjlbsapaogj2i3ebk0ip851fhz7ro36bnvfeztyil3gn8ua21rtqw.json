@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 381.46326184272766,
+            "y": 579.1932535171509,
+            "width": 90.60965538024902,
+            "height": 59.48465824127197,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 570.1176881790161,
+            "y": 483.484708070755,
+            "width": 433.8389825820923,
+            "height": 379.64968085289,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 107.84812152385712,
+            "y": 431.80988073349,
+            "width": 492.8641301393509,
+            "height": 359.75722789764404,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "thecakw72n6yjlbsapaogj2i3ebk0ip851fhz7ro36bnvfeztyil3gn8ua21rtqw.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 137.56130576133728,
+            "y": 138.45623955130577,
+            "width": 626.6321432590485,
+            "height": 452.4234361946583,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 81.62105798721313,
+            "y": 596.9242617487907,
+            "width": 1032.0135855674744,
+            "height": 730.0340607762337,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "ekcro1krzv2jm78asvxt3wl50yihdabag6609f3rgyuyyumrb6c6jqh9cre0zobf.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 118.3580732345581,
+            "y": 921.0797309875488,
+            "width": 273.3821725845337,
+            "height": 294.210147857666,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 324.93736267089844,
+            "y": 878.1743288040161,
+            "width": 401.31900787353516,
+            "height": 318.7218189239502,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "jasl1zdb6nkieiosutgf2puohb3vr835a2036cqerhurrtpvp8mkvgpt4bu02bf9.jpg"
+}

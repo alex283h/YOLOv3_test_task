@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 323.55620715022087,
+            "y": 523.5303819179535,
+            "width": 154.6597953736782,
+            "height": 103.8961112499237,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 312.87211006879807,
+            "y": 329.23696637153625,
+            "width": 217.53886806964874,
+            "height": 105.73092460632324,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 493.5273497700691,
+            "y": 435.45631170272827,
+            "width": 245.69818103313446,
+            "height": 138.26565623283386,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 23.047970920801163,
+            "y": 199.9284514784813,
+            "width": 275.5239897072315,
+            "height": 153.48889768123627,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        }
+    ],
+    "file_name": "o3fclgya21dnlmzumnp4tmedcwuabztoifyykjedzzihq4a2m8gvl4972ztptaz1.jpg"
+}

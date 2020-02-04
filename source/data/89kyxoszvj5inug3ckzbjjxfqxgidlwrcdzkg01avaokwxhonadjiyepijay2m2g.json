@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 119.59173990786076,
+            "y": 570.6511317491531,
+            "width": 50.266622975468636,
+            "height": 34.925806283950806,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 189.2766016125679,
+            "y": 530.0418037176132,
+            "width": 175.3548457622528,
+            "height": 113.89968454837799,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 210.50846153497696,
+            "y": 241.29767486453056,
+            "width": 131.2109871506691,
+            "height": 304.25432363152504,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 74.11682271957397,
+            "y": 217.57018592953682,
+            "width": 382.54191267490387,
+            "height": 393.73721358180046,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "89kyxoszvj5inug3ckzbjjxfqxgidlwrcdzkg01avaokwxhonadjiyepijay2m2g.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 500.05316376686096,
+            "y": 195.0719976425171,
+            "width": 255.84414839744568,
+            "height": 159.82242822647095,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 469.4532895088196,
+            "y": 442.0485055446625,
+            "width": 330.29369831085205,
+            "height": 653.8063108921051,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 289.21180486679077,
+            "y": 431.6653633117676,
+            "width": 687.8197574615479,
+            "height": 654.1471338272095,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "c53nf98i419hzbnmzbzpkou8lbyctn8thr1qb0iv25y5an53ahws0drvnt21vlpe.jpg"
+}

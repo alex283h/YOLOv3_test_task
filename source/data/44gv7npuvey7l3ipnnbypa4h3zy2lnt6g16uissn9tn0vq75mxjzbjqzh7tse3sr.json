@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 212.21501421928406,
+            "y": 305.69100856781006,
+            "width": 285.3717656135559,
+            "height": 192.78409695625305,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 202.99107372760773,
+            "y": 394.07477337121964,
+            "width": 307.61864471435547,
+            "height": 585.8674983382225,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 30.392072021961212,
+            "y": 360.2310827970505,
+            "width": 600.8086959719658,
+            "height": 596.663617014885,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "44gv7npuvey7l3ipnnbypa4h3zy2lnt6g16uissn9tn0vq75mxjzbjqzh7tse3sr.jpg"
+}

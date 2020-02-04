@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 683.701171875,
+            "y": 896.3540840148926,
+            "width": 199.65497016906738,
+            "height": 104.73283767700195,
+            "class": "relojes"
+        },
+        {
+            "x": 447.0741069316864,
+            "y": 850.6916642189026,
+            "width": 155.787752866745,
+            "height": 222.06939697265625,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 248.1554353237152,
+            "y": 566.6320180892944,
+            "width": 388.6693060398102,
+            "height": 280.9302806854248,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        }
+    ],
+    "file_name": "brmr4bfn52vsy1tovnojtk97jjlyr3e2lv92hrg7yh1o9xtauop4o3ukcb9cerja.jpg"
+}

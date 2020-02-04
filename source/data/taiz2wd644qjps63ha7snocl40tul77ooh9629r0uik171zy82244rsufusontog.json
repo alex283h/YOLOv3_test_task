@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 560.6156516075134,
+            "y": 726.1267154216766,
+            "width": 111.71975612640381,
+            "height": 82.34594893455505,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 556.8132019042969,
+            "y": 601.6646057367325,
+            "width": 132.02210426330566,
+            "height": 144.01538360118866,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 791.604380607605,
+            "y": 612.6133300662041,
+            "width": 110.72866916656494,
+            "height": 189.42382383346558,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "taiz2wd644qjps63ha7snocl40tul77ooh9629r0uik171zy82244rsufusontog.jpg"
+}

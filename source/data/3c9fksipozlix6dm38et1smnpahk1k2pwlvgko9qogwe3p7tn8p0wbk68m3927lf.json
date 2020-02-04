@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 358.527472615242,
+            "y": 397.1692083477974,
+            "width": 158.5023209452629,
+            "height": 86.92467391490936,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 306.4354978501797,
+            "y": 994.7069646120071,
+            "width": 363.54807391762733,
+            "height": 231.50813162326813,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 288.79985958337784,
+            "y": 444.3414716720581,
+            "width": 365.3073459863663,
+            "height": 688.2824521064758,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 205.88274747133255,
+            "y": 389.79944854974747,
+            "width": 515.1501372456551,
+            "height": 651.1226050257683,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "3c9fksipozlix6dm38et1smnpahk1k2pwlvgko9qogwe3p7tn8p0wbk68m3927lf.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 549.4821453094482,
+            "y": 882.0023775100708,
+            "width": 32.85856246948242,
+            "height": 29.13097858428955,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 599.3955659866333,
+            "y": 576.1706829071045,
+            "width": 72.32926368713379,
+            "height": 36.79767608642578,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 558.3366537094116,
+            "y": 647.3148393630981,
+            "width": 182.05204010009766,
+            "height": 218.8607883453369,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 560.1978063583374,
+            "y": 830.6168103218079,
+            "width": 180.9873104095459,
+            "height": 241.62012577056885,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "mcs5gewbrnx1dsnmecgnwvfn2kjilmcoulwiv80cnai5vafmk6dok3rwerk2ldtv.jpg"
+}

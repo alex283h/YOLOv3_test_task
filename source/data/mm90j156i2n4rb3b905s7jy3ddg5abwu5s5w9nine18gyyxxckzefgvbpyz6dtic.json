@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 600.6357765197754,
+            "y": 528.9025264978409,
+            "width": 69.67143058776855,
+            "height": 48.16031813621521,
+            "genre": "chico",
+            "class": "sombreros"
+        },
+        {
+            "x": 691.7712950706482,
+            "y": 581.4931404590607,
+            "width": 125.06659984588623,
+            "height": 179.83960390090942,
+            "genre": "chico",
+            "class": "abrigos"
+        },
+        {
+            "x": 533.9824748039246,
+            "y": 576.0089457035065,
+            "width": 158.91315937042236,
+            "height": 165.4459583759308,
+            "genre": "chico",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "mm90j156i2n4rb3b905s7jy3ddg5abwu5s5w9nine18gyyxxckzefgvbpyz6dtic.jpg"
+}

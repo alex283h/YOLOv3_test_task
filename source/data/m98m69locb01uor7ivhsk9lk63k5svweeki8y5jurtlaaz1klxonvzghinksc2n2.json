@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 266.380343914032,
+            "y": 221.8909388780594,
+            "width": 48.84366989135742,
+            "height": 42.55059599876404,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 314.33937406539917,
+            "y": 660.8718770742416,
+            "width": 40.7907600402832,
+            "height": 77.28238105773926,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 267.7306709289551,
+            "y": 659.183099269867,
+            "width": 45.703476905822754,
+            "height": 75.37359237670898,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 247.5277533531189,
+            "y": 255.64822107553482,
+            "width": 131.68865203857422,
+            "height": 422.15242356061935,
+            "genre": "mujer",
+            "class": "monos"
+        }
+    ],
+    "file_name": "m98m69locb01uor7ivhsk9lk63k5svweeki8y5jurtlaaz1klxonvzghinksc2n2.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 302.0426023006439,
+            "y": 622.0164970159531,
+            "width": 90.52159309387207,
+            "height": 45.62547183036804,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 228.2551610469818,
+            "y": 738.4052006006241,
+            "width": 194.64996814727783,
+            "height": 314.93450951576233,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 153.29762756824493,
+            "y": 714.6336051225662,
+            "width": 393.25927913188934,
+            "height": 336.73711133003235,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "p9xqbebfyqft9ren6yav2v7q2t4i2hfzuyrvfcvtf7wyms82wr8s9lk0cfxel6dz.jpg"
+}

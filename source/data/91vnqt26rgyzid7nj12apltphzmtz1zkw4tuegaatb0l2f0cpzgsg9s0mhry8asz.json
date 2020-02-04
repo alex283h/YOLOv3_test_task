@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 663.8076567649841,
+            "y": 918.7282133102417,
+            "width": 93.54300498962402,
+            "height": 90.30143737792969,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 462.44264960289,
+            "y": 186.16803467273712,
+            "width": 181.1357867717743,
+            "height": 86.81591212749481,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 323.85942220687866,
+            "y": 859.6963548660278,
+            "width": 330.27766942977905,
+            "height": 84.94431495666504,
+            "genre": "hombre",
+            "class": "cinturones"
+        },
+        {
+            "x": 453.714280128479,
+            "y": 363.6163580417633,
+            "width": 182.33811378479004,
+            "height": 198.30458521842957,
+            "genre": "hombre",
+            "class": "collares"
+        },
+        {
+            "x": 297.6456356048584,
+            "y": 374.3149924278259,
+            "width": 534.0274715423584,
+            "height": 527.5068712234497,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "91vnqt26rgyzid7nj12apltphzmtz1zkw4tuegaatb0l2f0cpzgsg9s0mhry8asz.jpg"
+}

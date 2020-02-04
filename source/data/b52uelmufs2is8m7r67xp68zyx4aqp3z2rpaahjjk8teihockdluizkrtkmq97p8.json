@@ -1,0 +1,61 @@
+{
+    "arr_boxes": [
+        {
+            "x": 595.4418396949768,
+            "y": 433.6793825030327,
+            "width": 117.63138771057129,
+            "height": 74.69377219676971,
+            "genre": "hombre",
+            "class": "corbatas"
+        },
+        {
+            "x": 658.8070321083069,
+            "y": 1243.7148685455322,
+            "width": 118.19143295288086,
+            "height": 108.84023177623749,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 609.6211552619934,
+            "y": 1115.3052624464035,
+            "width": 88.03267478942871,
+            "height": 175.1191247701645,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 576.2011957168579,
+            "y": 464.2360864877701,
+            "width": 161.86826705932617,
+            "height": 266.23402869701385,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 548.5057353973389,
+            "y": 432.46580469608307,
+            "width": 286.86161041259766,
+            "height": 404.3730825781822,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 552.619879245758,
+            "y": 736.8503841161728,
+            "width": 241.09973430633545,
+            "height": 532.8292441368103,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 283.0471873283386,
+            "y": 474.81024649739265,
+            "width": 316.8464970588684,
+            "height": 845.5614425837994,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "b52uelmufs2is8m7r67xp68zyx4aqp3z2rpaahjjk8teihockdluizkrtkmq97p8.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 345.28553009033203,
+            "y": 585.7431294322014,
+            "width": 227.73847103118896,
+            "height": 231.442917406559,
+            "genre": "chico",
+            "class": "chaquetas"
+        },
+        {
+            "x": 534.9688625335693,
+            "y": 582.9797768592834,
+            "width": 283.4419870376587,
+            "height": 233.31275045871735,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 777.2985076904297,
+            "y": 504.03836393356323,
+            "width": 287.82617568969727,
+            "height": 291.3362590074539,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 0.0,
+            "y": 499.7407423853874,
+            "width": 269.34133529663086,
+            "height": 313.4452494978905,
+            "genre": "mujer",
+            "class": "mochilas"
+        },
+        {
+            "x": 28.082503080368042,
+            "y": 487.2129043340683,
+            "width": 355.2138125896454,
+            "height": 319.169512629509,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "xlxh2rs6d075o0m6mechn9pfzq0xcqkvp2otnv03xuot7lty3gk86yabkupg4msx.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 386.3766610622406,
+            "y": 922.7862238883972,
+            "width": 32.640531063079834,
+            "height": 52.0656681060791,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 498.44197154045105,
+            "y": 699.5078372955322,
+            "width": 151.82366251945496,
+            "height": 61.44378662109375,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 393.68126034736633,
+            "y": 838.1223177909851,
+            "width": 112.86855697631836,
+            "height": 88.692626953125,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 483.1616520881653,
+            "y": 795.4525351524353,
+            "width": 314.00397777557373,
+            "height": 273.88967514038086,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "e4gfisjzy4syc1251toj8ulp0bspqunayn3ab9y8lya8w90093vq99mm05pnkvub.jpg"
+}

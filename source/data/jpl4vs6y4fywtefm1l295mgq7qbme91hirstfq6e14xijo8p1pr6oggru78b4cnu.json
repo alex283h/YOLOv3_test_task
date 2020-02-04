@@ -1,0 +1,20 @@
+{
+    "arr_boxes": [
+        {
+            "x": 545.033905506134,
+            "y": 857.4992996454239,
+            "width": 201.40038013458252,
+            "height": 303.0591559410095,
+            "genre": "hombre",
+            "class": "botas"
+        },
+        {
+            "x": 1.152293086051941,
+            "y": 886.2557787895203,
+            "width": 384.8910766839981,
+            "height": 432.24693775177,
+            "class": "bolso"
+        }
+    ],
+    "file_name": "jpl4vs6y4fywtefm1l295mgq7qbme91hirstfq6e14xijo8p1pr6oggru78b4cnu.jpg"
+}

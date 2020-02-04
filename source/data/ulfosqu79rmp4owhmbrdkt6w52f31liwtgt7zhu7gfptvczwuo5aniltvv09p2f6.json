@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 318.2127070426941,
+            "y": 579.7481596469879,
+            "width": 102.92852640151978,
+            "height": 135.71902513504028,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 460.26981353759766,
+            "y": 574.6249794960022,
+            "width": 120.51692962646484,
+            "height": 128.88894081115723,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 312.9247856140137,
+            "y": 701.1149525642395,
+            "width": 100.63150405883789,
+            "height": 159.08567905426025,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 202.2360062599182,
+            "y": 550.7335245609283,
+            "width": 126.36448860168457,
+            "height": 132.12668895721436,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 484.1997528076172,
+            "y": 690.7408118247986,
+            "width": 98.79000663757324,
+            "height": 198.34699630737305,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 192.2881007194519,
+            "y": 682.2713613510132,
+            "width": 128.12139987945557,
+            "height": 190.60399532318115,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "ulfosqu79rmp4owhmbrdkt6w52f31liwtgt7zhu7gfptvczwuo5aniltvv09p2f6.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 718.6806964874268,
+            "y": 519.433955848217,
+            "width": 95.6321668624878,
+            "height": 53.52495610713959,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 711.2834644317627,
+            "y": 1258.733707666397,
+            "width": 120.30557155609131,
+            "height": 87.004154920578,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 698.950560092926,
+            "y": 920.5602049827576,
+            "width": 174.86183166503906,
+            "height": 396.47823572158813,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 677.1953129768372,
+            "y": 616.1100760102272,
+            "width": 233.81772994995117,
+            "height": 516.9774815440178,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "6ao82uo4h8qv25whjbmog45bfne8iu8hlm1gqu37ht6ux30tzarjuzr112yiye84.jpg"
+}

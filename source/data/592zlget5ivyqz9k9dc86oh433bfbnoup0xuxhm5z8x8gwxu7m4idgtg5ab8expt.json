@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 500.3287446498871,
+            "y": 1235.7334703207016,
+            "width": 103.26960682868958,
+            "height": 85.27573943138123,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 321.4427947998047,
+            "y": 844.7180896997452,
+            "width": 121.82007551193237,
+            "height": 76.51119232177734,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 336.9870114326477,
+            "y": 916.0242408514023,
+            "width": 84.39997673034668,
+            "height": 132.79911875724792,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 323.1312668323517,
+            "y": 991.4328843355179,
+            "width": 247.9693329334259,
+            "height": 239.76711630821228,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "592zlget5ivyqz9k9dc86oh433bfbnoup0xuxhm5z8x8gwxu7m4idgtg5ab8expt.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 395.6304359436035,
+            "y": 307.6717472076416,
+            "width": 175.62034606933594,
+            "height": 261.73693656921387,
+            "genre": "hombre",
+            "class": "cazadoras"
+        },
+        {
+            "x": 367.6469135284424,
+            "y": 504.7746276855469,
+            "width": 202.19407081604004,
+            "height": 270.94654083251953,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "mllsv04mbnsbwt4zqbl4a11htez3lf3y7cglw4wkpzbtqn6uhtm7r42v036trvy5.jpg"
+}

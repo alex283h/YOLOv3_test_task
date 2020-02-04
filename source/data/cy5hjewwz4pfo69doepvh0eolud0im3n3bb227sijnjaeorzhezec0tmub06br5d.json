@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 320.0834619998932,
+            "y": 925.4457306861877,
+            "width": 54.799911975860596,
+            "height": 62.188711166381836,
+            "genre": "mujer",
+            "class": "anillos"
+        },
+        {
+            "x": 501.2682044506073,
+            "y": 720.6970524787903,
+            "width": 562.7796471118927,
+            "height": 355.87669372558594,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "cy5hjewwz4pfo69doepvh0eolud0im3n3bb227sijnjaeorzhezec0tmub06br5d.jpg"
+}

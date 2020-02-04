@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 415.31091570854187,
+            "y": 757.2996489405632,
+            "width": 73.38556051254272,
+            "height": 47.29182314872742,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 473.7630307674408,
+            "y": 587.8186696767807,
+            "width": 106.14720940589905,
+            "height": 122.56561088562012,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 419.26815032958984,
+            "y": 549.9577449560165,
+            "width": 134.6639084815979,
+            "height": 183.37450861930847,
+            "genre": "mujer",
+            "class": "falda"
+        }
+    ],
+    "file_name": "z88idrljg4txnqztwnmmxovt95cycrdxkp6npg55dpb4avcrisd5jzqrmizr8h1u.jpg"
+}

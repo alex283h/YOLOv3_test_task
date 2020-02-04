@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 428.3335769176483,
+            "y": 1297.0718622207642,
+            "width": 202.85118699073792,
+            "height": 52.59549021720886,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 564.9760222434998,
+            "y": 1054.6199887990952,
+            "width": 176.50475978851318,
+            "height": 190.53865671157837,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 356.5479111671448,
+            "y": 248.7742692232132,
+            "width": 296.2918710708618,
+            "height": 279.84833121299744,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 370.5152142047882,
+            "y": 490.67728221416473,
+            "width": 404.4235074520111,
+            "height": 384.6834897994995,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 444.1586208343506,
+            "y": 661.6314142942429,
+            "width": 369.2150402069092,
+            "height": 624.4879424571991,
+            "genre": "mujer",
+            "class": "calcetines y medias"
+        }
+    ],
+    "file_name": "habgrent6njd6ne95wtkombphara2wckyhi5sj5zg80c0cazrxws4g69yu0onbfz.jpg"
+}

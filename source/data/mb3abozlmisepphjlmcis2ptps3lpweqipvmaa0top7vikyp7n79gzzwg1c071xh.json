@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 514.2343461513519,
+            "y": 366.1044716835022,
+            "width": 182.01789021492004,
+            "height": 145.23510038852692,
+            "genre": "hombre",
+            "class": "corbatas"
+        },
+        {
+            "x": 139.95416343212128,
+            "y": 471.85545712709427,
+            "width": 250.56396782398224,
+            "height": 148.9956110715866,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 72.48721897602081,
+            "y": 541.1568313837051,
+            "width": 423.65216195583344,
+            "height": 732.4833333492279,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 29.90207076072693,
+            "y": 579.0002390742302,
+            "width": 661.1385262012482,
+            "height": 752.169044315815,
+            "genre": "mujer",
+            "class": "vestidos"
+        },
+        {
+            "x": 357.0522093772888,
+            "y": 315.07557928562164,
+            "width": 696.2501764297485,
+            "height": 1002.5780260562897,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "mb3abozlmisepphjlmcis2ptps3lpweqipvmaa0top7vikyp7n79gzzwg1c071xh.jpg"
+}

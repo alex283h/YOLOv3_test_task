@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 517.1412527561188,
+            "y": 562.0706212520599,
+            "width": 54.60315942764282,
+            "height": 115.32759189605713,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 0.0,
+            "y": 557.752223610878,
+            "width": 58.083588257431984,
+            "height": 138.678919672966,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "gtkrfrfifvkceellsr5elmgftet42wk4t7py2exko2qwp9y7ww4iwt5eishfhpny.jpg"
+}

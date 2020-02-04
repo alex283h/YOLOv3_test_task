@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 183.63100290298462,
+            "y": 696.1235452890396,
+            "width": 111.44548416137695,
+            "height": 187.50807690620422,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 129.65013027191162,
+            "y": 117.18555527925491,
+            "width": 130.41277885437012,
+            "height": 239.73690921068192,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 106.33774280548096,
+            "y": 337.2642395198345,
+            "width": 208.25215816497803,
+            "height": 188.0408951342106,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 148.16502213478088,
+            "y": 470.9115390777588,
+            "width": 167.22941279411316,
+            "height": 384.6745592355728,
+            "genre": "mujer",
+            "class": "calcetines y medias"
+        },
+        {
+            "x": 32.757582664489746,
+            "y": 148.2284663617611,
+            "width": 355.73670387268066,
+            "height": 421.280835300684,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "6a6in489jffdslyp2prwwsmun8yr8iemj26ct89yvsrlf5doi4thmh1uokkauptd.jpg"
+}

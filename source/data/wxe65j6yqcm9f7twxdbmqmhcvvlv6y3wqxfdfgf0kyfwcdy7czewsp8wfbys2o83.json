@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 352.8667080402374,
+            "y": 618.684441447258,
+            "width": 240.31930804252625,
+            "height": 162.46004819869995,
+            "genre": "hombre",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 364.64349389076233,
+            "y": 418.6567032337189,
+            "width": 226.78932309150696,
+            "height": 207.20100045204163,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 556.0184526443481,
+            "y": 473.3363342285156,
+            "width": 240.48909187316895,
+            "height": 329.1264224052429,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "wxe65j6yqcm9f7twxdbmqmhcvvlv6y3wqxfdfgf0kyfwcdy7czewsp8wfbys2o83.jpg"
+}

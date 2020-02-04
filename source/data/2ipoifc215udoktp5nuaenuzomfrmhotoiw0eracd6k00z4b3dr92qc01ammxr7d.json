@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 728.354287147522,
+            "y": 498.9372253417969,
+            "width": 68.11527729034424,
+            "height": 97.12383449077606,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 719.4843935966492,
+            "y": 254.4580042362213,
+            "width": 142.1555757522583,
+            "height": 84.48660671710968,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 666.6672992706299,
+            "y": 915.9534305334091,
+            "width": 258.3518314361572,
+            "height": 416.24364852905273,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 878.8726902008057,
+            "y": 490.03862142562866,
+            "width": 209.7736358642578,
+            "height": 597.7404713630676,
+            "genre": "mujer",
+            "class": "mochilas"
+        },
+        {
+            "x": 651.0177040100098,
+            "y": 381.37616515159607,
+            "width": 327.54522800445557,
+            "height": 622.8345215320587,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "2ipoifc215udoktp5nuaenuzomfrmhotoiw0eracd6k00z4b3dr92qc01ammxr7d.jpg"
+}

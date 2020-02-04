@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 290.23417711257935,
+            "y": 577.0671064853668,
+            "width": 160.62239170074463,
+            "height": 127.31610488891602,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 351.5384352207184,
+            "y": 338.17942357063293,
+            "width": 331.3378608226776,
+            "height": 378.4540958404541,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "nhn25blk07xdl5pgtwt3q0rkrij4m98doqpi2g8ybzyen57ljphhmoh246e3siz7.jpg"
+}

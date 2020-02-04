@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 540.9260058403015,
+            "y": 1096.6953188180923,
+            "width": 105.66959381103516,
+            "height": 116.42648577690125,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 396.56665205955505,
+            "y": 1220.2177226543427,
+            "width": 135.89433431625366,
+            "height": 102.57421731948853,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 399.3165385723114,
+            "y": 660.8669847249985,
+            "width": 185.36129593849182,
+            "height": 277.2598922252655,
+            "genre": "mujer",
+            "class": "monos"
+        }
+    ],
+    "file_name": "tfzfx0g8oxu9vun5uihs5gmcc8vg47wfcsif2gamhwlfupywol796muphjo4ix4k.jpg"
+}

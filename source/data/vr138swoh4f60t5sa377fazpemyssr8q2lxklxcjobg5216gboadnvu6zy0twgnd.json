@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 299.3535804748535,
+            "y": 292.5024859905243,
+            "width": 45.543200969696045,
+            "height": 70.35801982879639,
+            "genre": "mujer",
+            "class": "anillos"
+        },
+        {
+            "x": 446.0947036743164,
+            "y": 433.20444917678833,
+            "width": 80.83203792572021,
+            "height": 143.72890853881836,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 1.702280044555664,
+            "y": 172.3601632118225,
+            "width": 723.9823293685913,
+            "height": 1021.6226234436035,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "vr138swoh4f60t5sa377fazpemyssr8q2lxklxcjobg5216gboadnvu6zy0twgnd.jpg"
+}

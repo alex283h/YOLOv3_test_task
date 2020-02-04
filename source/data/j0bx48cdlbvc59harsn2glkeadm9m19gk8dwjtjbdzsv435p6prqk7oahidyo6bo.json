@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 510.1535475254059,
+            "y": 703.5077512264252,
+            "width": 53.95588517189026,
+            "height": 102.39928364753723,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 333.2179391384125,
+            "y": 722.1782594919205,
+            "width": 54.41579818725586,
+            "height": 115.32264947891235,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 326.92959666252136,
+            "y": 602.2557556629181,
+            "width": 211.64412260055542,
+            "height": 98.84726107120514,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 283.14983010292053,
+            "y": 805.3722560405731,
+            "width": 624.7104156017303,
+            "height": 550.5537629127502,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "j0bx48cdlbvc59harsn2glkeadm9m19gk8dwjtjbdzsv435p6prqk7oahidyo6bo.jpg"
+}

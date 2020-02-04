@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 323.89286398887634,
+            "y": 408.1829237937927,
+            "width": 74.70334053039551,
+            "height": 46.60503387451172,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 672.6669931411743,
+            "y": 373.6982989311218,
+            "width": 104.7158432006836,
+            "height": 41.82076692581177,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 299.80026483535767,
+            "y": 656.8486762046814,
+            "width": 126.36300802230835,
+            "height": 49.54881191253662,
+            "genre": "mujer",
+            "class": "cinturones"
+        },
+        {
+            "x": 220.7132989168167,
+            "y": 470.48020005226135,
+            "width": 284.1917556524277,
+            "height": 279.29317831993103,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 560.7595896720886,
+            "y": 408.7795329093933,
+            "width": 310.996470451355,
+            "height": 384.71078395843506,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "w3rdyh9l3hlezqnd5tpkit4jh2rlwsytst3aqrwyjtftfg0mjhkk3h0fq4x5xwdx.jpg"
+}

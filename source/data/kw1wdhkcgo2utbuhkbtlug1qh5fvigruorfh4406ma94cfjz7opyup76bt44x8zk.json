@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 55.3680682182312,
+            "y": 358.7806929945946,
+            "width": 325.1874053478241,
+            "height": 421.4817570447922,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 675.819661617279,
+            "y": 438.0928518176079,
+            "width": 395.98005294799805,
+            "height": 379.8964177966118,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 275.56742906570435,
+            "y": 347.0687313079834,
+            "width": 355.9475040435791,
+            "height": 456.7203379869461,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "kw1wdhkcgo2utbuhkbtlug1qh5fvigruorfh4406ma94cfjz7opyup76bt44x8zk.jpg"
+}

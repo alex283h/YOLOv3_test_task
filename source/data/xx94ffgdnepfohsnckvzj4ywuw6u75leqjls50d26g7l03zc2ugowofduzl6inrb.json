@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 465.33756852149963,
+            "y": 403.4038606286049,
+            "width": 171.84772610664368,
+            "height": 135.85671067237854,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 440.879008769989,
+            "y": 377.3611064553261,
+            "width": 407.2378635406494,
+            "height": 329.46856451034546,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 424.536212682724,
+            "y": 463.0846630334854,
+            "width": 557.2393190860748,
+            "height": 851.3859808444977,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "xx94ffgdnepfohsnckvzj4ywuw6u75leqjls50d26g7l03zc2ugowofduzl6inrb.jpg"
+}

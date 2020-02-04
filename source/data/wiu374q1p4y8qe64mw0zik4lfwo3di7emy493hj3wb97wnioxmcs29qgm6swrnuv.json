@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 697.0558047294617,
+            "y": 715.5118192434311,
+            "width": 59.860854148864746,
+            "height": 80.64966022968292,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 410.52645564079285,
+            "y": 264.92569291591644,
+            "width": 147.2739064693451,
+            "height": 246.04099148511887,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 543.8881945610046,
+            "y": 276.1619781553745,
+            "width": 198.8658857345581,
+            "height": 290.5443634688854,
+            "genre": "hombre",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "wiu374q1p4y8qe64mw0zik4lfwo3di7emy493hj3wb97wnioxmcs29qgm6swrnuv.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 108.24673533439636,
+            "y": 832.5407910346985,
+            "width": 75.15185952186584,
+            "height": 55.52494525909424,
+            "genre": "hombre",
+            "class": "anillos"
+        },
+        {
+            "x": 419.9410092830658,
+            "y": 754.9972486495972,
+            "width": 97.24947452545166,
+            "height": 97.2835922241211,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 391.82577252388,
+            "y": 702.0444560050964,
+            "width": 632.8669917583466,
+            "height": 371.9915771484375,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 0.0,
+            "y": 650.7754039764404,
+            "width": 628.5752105712891,
+            "height": 411.42494201660156,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "12i4uecnwu9xarbziugwjq2ypkbzg30dko0fpqvw2mbrbrg458m34mzu8ai8quq4.jpg"
+}

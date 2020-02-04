@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 609.0712809562683,
+            "y": 337.1253490447998,
+            "width": 64.88658428192139,
+            "height": 48.78708600997925,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 365.7514178752899,
+            "y": 524.8068416118622,
+            "width": 135.37613153457642,
+            "height": 315.50010323524475,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 312.34875440597534,
+            "y": 314.8405694961548,
+            "width": 250.63897848129272,
+            "height": 284.9064087867737,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 528.4692800045013,
+            "y": 373.16879868507385,
+            "width": 216.77223801612854,
+            "height": 487.6822793483734,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "2wbqimq2dli1iozopy7jxgmzy750zein7p6sb3mn2loa1gkg4i9ayeytqwdw1fbb.jpg"
+}

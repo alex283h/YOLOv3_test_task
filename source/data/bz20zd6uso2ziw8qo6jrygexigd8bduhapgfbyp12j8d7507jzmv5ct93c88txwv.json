@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 486.9713759422302,
+            "y": 639.904797077179,
+            "width": 239.07687664031982,
+            "height": 440.6058096885681,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 426.41857624053955,
+            "y": 254.04152691364288,
+            "width": 284.4275379180908,
+            "height": 435.40912091732025,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 687.073802947998,
+            "y": 524.3908309936523,
+            "width": 272.17400550842285,
+            "height": 483.34208965301514,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 660.3479933738708,
+            "y": 406.96250796318054,
+            "width": 318.6899471282959,
+            "height": 601.0657560825348,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "bz20zd6uso2ziw8qo6jrygexigd8bduhapgfbyp12j8d7507jzmv5ct93c88txwv.jpg"
+}

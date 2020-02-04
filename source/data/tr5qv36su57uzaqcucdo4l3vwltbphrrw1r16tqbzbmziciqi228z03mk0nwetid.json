@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 279.2927609682083,
+            "y": 435.9782019853592,
+            "width": 119.69935584068298,
+            "height": 161.01124119758606,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 288.5256496667862,
+            "y": 275.4797862768173,
+            "width": 152.08569717407227,
+            "height": 200.827739238739,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "tr5qv36su57uzaqcucdo4l3vwltbphrrw1r16tqbzbmziciqi228z03mk0nwetid.jpg"
+}

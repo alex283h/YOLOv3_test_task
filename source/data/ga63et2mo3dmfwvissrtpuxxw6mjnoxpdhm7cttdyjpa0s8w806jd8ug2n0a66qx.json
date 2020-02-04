@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 261.0280752182007,
+            "y": 354.1558840870857,
+            "width": 74.5189118385315,
+            "height": 44.437773287296295,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 614.1839146614075,
+            "y": 600.100457072258,
+            "width": 64.4218111038208,
+            "height": 59.5320770740509,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 138.69903445243835,
+            "y": 474.8396793603897,
+            "width": 251.2034010887146,
+            "height": 248.20016467571259,
+            "genre": "mujer",
+            "class": "trajes de ba\u00f1o"
+        }
+    ],
+    "file_name": "ga63et2mo3dmfwvissrtpuxxw6mjnoxpdhm7cttdyjpa0s8w806jd8ug2n0a66qx.jpg"
+}

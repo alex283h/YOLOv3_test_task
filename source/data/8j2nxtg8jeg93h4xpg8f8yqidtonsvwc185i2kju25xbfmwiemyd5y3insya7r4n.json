@@ -1,0 +1,20 @@
+{
+    "arr_boxes": [
+        {
+            "x": 384.6984565258026,
+            "y": 670.3905057907104,
+            "width": 150.42377471923828,
+            "height": 74.33950424194336,
+            "class": "sombreros"
+        },
+        {
+            "x": 387.06934690475464,
+            "y": 782.3329281806946,
+            "width": 163.99489402770996,
+            "height": 190.96796035766602,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "8j2nxtg8jeg93h4xpg8f8yqidtonsvwc185i2kju25xbfmwiemyd5y3insya7r4n.jpg"
+}

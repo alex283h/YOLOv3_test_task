@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 433.8080749511719,
+            "y": 306.43879759311676,
+            "width": 38.07501220703125,
+            "height": 52.809261202812195,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 841.7947998046875,
+            "y": 616.5450224876404,
+            "width": 81.483154296875,
+            "height": 63.158108711242676,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 473.170654296875,
+            "y": 450.8617830276489,
+            "width": 201.3079833984375,
+            "height": 225.42991304397583,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 437.0084228515625,
+            "y": 431.2996838092804,
+            "width": 263.982666015625,
+            "height": 265.3596775531769,
+            "genre": "mujer",
+            "class": "trajes de ba\u00f1o"
+        }
+    ],
+    "file_name": "g8vn5zmbmngzcv7pytpy991t6v40ao0yez4lp3ztt5ps87qtx1hh0fb60m51e65m.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 474.8050367832184,
+            "y": 646.9013392925262,
+            "width": 69.26320910453796,
+            "height": 47.3609983921051,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 376.40376806259155,
+            "y": 1066.4586693048477,
+            "width": 188.25180530548096,
+            "height": 262.8757417201996,
+            "genre": "mujer",
+            "class": "calcetines y medias"
+        },
+        {
+            "x": 394.92523670196533,
+            "y": 653.004102408886,
+            "width": 220.28233766555786,
+            "height": 477.06452161073685,
+            "genre": "mujer",
+            "class": "vestidos"
+        },
+        {
+            "x": 596.5031576156616,
+            "y": 656.412935256958,
+            "width": 215.71359157562256,
+            "height": 572.0693171024323,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "tapa5bwhtauhzp2b6v9vyl7hdykb7cjzsq6nexlvbooset5a7arjppm5n36hqkem.jpg"
+}

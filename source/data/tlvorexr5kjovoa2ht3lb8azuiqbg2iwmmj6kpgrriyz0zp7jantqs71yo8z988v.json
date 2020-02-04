@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 447.4132239818573,
+            "y": 933.2459378242493,
+            "width": 199.83080506324768,
+            "height": 72.1194076538086,
+            "genre": "mujer",
+            "class": "cinturones"
+        },
+        {
+            "x": 382.97226190567017,
+            "y": 931.4393734931946,
+            "width": 303.21757078170776,
+            "height": 150.06077527999878,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 297.15331077575684,
+            "y": 684.8508095741272,
+            "width": 420.9898066520691,
+            "height": 345.16669750213623,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "tlvorexr5kjovoa2ht3lb8azuiqbg2iwmmj6kpgrriyz0zp7jantqs71yo8z988v.jpg"
+}

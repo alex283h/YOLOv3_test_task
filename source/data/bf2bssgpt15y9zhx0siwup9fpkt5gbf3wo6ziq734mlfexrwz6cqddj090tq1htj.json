@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 642.9939293861389,
+            "y": 1097.4777717590332,
+            "width": 105.90017795562744,
+            "height": 108.9257583618164,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 659.0446972846985,
+            "y": 637.059223651886,
+            "width": 205.97871780395508,
+            "height": 192.92875242233276,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 11.782466769218445,
+            "y": 937.991060256958,
+            "width": 208.8765174150467,
+            "height": 194.0530128479004,
+            "genre": "hombre",
+            "class": "botas"
+        },
+        {
+            "x": 27.263420820236206,
+            "y": 794.3125677108765,
+            "width": 550.7618486881256,
+            "height": 457.8005290031433,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "bf2bssgpt15y9zhx0siwup9fpkt5gbf3wo6ziq734mlfexrwz6cqddj090tq1htj.jpg"
+}

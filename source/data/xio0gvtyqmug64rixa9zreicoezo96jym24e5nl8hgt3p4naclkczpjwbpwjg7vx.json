@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 507.8843343257904,
+            "y": 1242.6895380020142,
+            "width": 114.82945561408997,
+            "height": 72.86043763160706,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 142.07527041435242,
+            "y": 1272.5434094667435,
+            "width": 122.20837354660034,
+            "height": 70.74996829032898,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 356.0465097427368,
+            "y": 577.3448467254639,
+            "width": 187.5266432762146,
+            "height": 182.5900375843048,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 117.70126461982727,
+            "y": 581.6762253642082,
+            "width": 632.2755324840546,
+            "height": 753.094245493412,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "xio0gvtyqmug64rixa9zreicoezo96jym24e5nl8hgt3p4naclkczpjwbpwjg7vx.jpg"
+}

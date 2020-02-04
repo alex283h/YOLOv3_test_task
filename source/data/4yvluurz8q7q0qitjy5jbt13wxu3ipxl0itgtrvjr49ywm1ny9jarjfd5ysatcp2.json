@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 456.0956923663616,
+            "y": 1184.8242536187172,
+            "width": 53.998683393001556,
+            "height": 116.28745794296265,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 422.3283840715885,
+            "y": 651.4318197369576,
+            "width": 114.67735156416893,
+            "height": 82.80146181583405,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 394.96159449219704,
+            "y": 893.8470599651337,
+            "width": 177.1486334502697,
+            "height": 179.47681546211243,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 370.5019502341747,
+            "y": 756.8725249767303,
+            "width": 203.01877990365028,
+            "height": 208.80984675884247,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "4yvluurz8q7q0qitjy5jbt13wxu3ipxl0itgtrvjr49ywm1ny9jarjfd5ysatcp2.jpg"
+}

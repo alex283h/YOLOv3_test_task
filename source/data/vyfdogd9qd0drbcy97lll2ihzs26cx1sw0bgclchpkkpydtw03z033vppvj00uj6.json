@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 538.4463572502136,
+            "y": 913.6962389945984,
+            "width": 61.63278579711914,
+            "height": 84.97238159179688,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 433.5777246952057,
+            "y": 884.6459197998047,
+            "width": 67.50637292861938,
+            "height": 95.25094985961914,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 491.8938195705414,
+            "y": 445.3977048397064,
+            "width": 86.4902651309967,
+            "height": 179.82624650001526,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 456.69005155563354,
+            "y": 754.9112462997437,
+            "width": 145.69718599319458,
+            "height": 216.56022548675537,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 468.45853328704834,
+            "y": 593.2721471786499,
+            "width": 158.6906862258911,
+            "height": 245.0777292251587,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 438.3954334259033,
+            "y": 448.22545051574707,
+            "width": 219.81775760650635,
+            "height": 378.48565578460693,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "vyfdogd9qd0drbcy97lll2ihzs26cx1sw0bgclchpkkpydtw03z033vppvj00uj6.jpg"
+}

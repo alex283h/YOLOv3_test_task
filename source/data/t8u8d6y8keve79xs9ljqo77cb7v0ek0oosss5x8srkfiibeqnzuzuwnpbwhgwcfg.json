@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 211.7017364501953,
+            "y": 721.9354927539825,
+            "width": 132.35883951187134,
+            "height": 133.42997431755066,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 18.38985800743103,
+            "y": 744.6539372205734,
+            "width": 582.5909578800201,
+            "height": 616.5976613759995,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 0.0,
+            "y": 633.1070065498352,
+            "width": 701.90354347229,
+            "height": 770.4442620277405,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "t8u8d6y8keve79xs9ljqo77cb7v0ek0oosss5x8srkfiibeqnzuzuwnpbwhgwcfg.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 651.1870050430298,
+            "y": 533.5223123431206,
+            "width": 188.30871105194092,
+            "height": 127.13373005390167,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 508.70808362960815,
+            "y": 134.4318699091673,
+            "width": 412.12493419647217,
+            "height": 245.4556692391634,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 72.24036455154419,
+            "y": 410.12990176677704,
+            "width": 1072.369544506073,
+            "height": 971.7563062906265,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "r5oiktnqi041ssawta6bc0vw5dyhmgwoe9d6js958jdqvuwp43ii0wbbc2xrpmt8.jpg"
+}

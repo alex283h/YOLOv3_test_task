@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 445.4799735546112,
+            "y": 203.3776617050171,
+            "width": 210.82249760627747,
+            "height": 167.87259578704834,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 468.7897324562073,
+            "y": 785.4345488548279,
+            "width": 427.65183448791504,
+            "height": 290.0267028808594,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 307.4531865119934,
+            "y": 250.96419095993042,
+            "width": 585.9337520599365,
+            "height": 576.7192053794861,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "07k2qup0nnhef4juq630y918dbbhb1l17iypi6ddo0jx4dxggq2ee40h3n11mmlm.jpg"
+}

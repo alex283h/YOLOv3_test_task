@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 496.9327139854431,
+            "y": 361.7159056663513,
+            "width": 34.38240051269531,
+            "height": 51.454832553863525,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 406.41804099082947,
+            "y": 732.0980286598206,
+            "width": 116.69598340988159,
+            "height": 132.65592098236084,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 522.6121723651886,
+            "y": 723.2133936882019,
+            "width": 146.24387383460999,
+            "height": 125.21671772003174,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 318.84392738342285,
+            "y": 445.55924892425537,
+            "width": 436.92238569259644,
+            "height": 301.97922706604004,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "ua2n6cnvwr4roe5y8fwae0fun5u1q69yuyawg71ftb4pmhyzn8dz8q56bjlmj5ah.jpg"
+}

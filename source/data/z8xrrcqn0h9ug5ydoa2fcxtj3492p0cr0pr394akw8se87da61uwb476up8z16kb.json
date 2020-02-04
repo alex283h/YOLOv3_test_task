@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 475.43748021125793,
+            "y": 279.260755777359,
+            "width": 109.90024423599243,
+            "height": 90.63658207654953,
+            "genre": "chica",
+            "class": "sombreros"
+        },
+        {
+            "x": 450.3896133899689,
+            "y": 492.21655905246735,
+            "width": 112.96367025375366,
+            "height": 125.17868936061859,
+            "genre": "chica",
+            "class": "pantalones"
+        },
+        {
+            "x": 435.64912819862366,
+            "y": 543.98282289505,
+            "width": 104.48011779785156,
+            "height": 158.74596655368805,
+            "genre": "chica",
+            "class": "botas"
+        }
+    ],
+    "file_name": "z8xrrcqn0h9ug5ydoa2fcxtj3492p0cr0pr394akw8se87da61uwb476up8z16kb.jpg"
+}

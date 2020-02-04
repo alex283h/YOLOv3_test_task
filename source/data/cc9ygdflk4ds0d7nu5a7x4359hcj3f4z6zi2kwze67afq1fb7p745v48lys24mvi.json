@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 525.7582426071167,
+            "y": 503.0102376937866,
+            "width": 91.44392967224121,
+            "height": 97.61375176906586,
+            "genre": "chica",
+            "class": "bolso"
+        },
+        {
+            "x": 405.57472229003906,
+            "y": 477.2358547449112,
+            "width": 101.25836849212646,
+            "height": 214.79966259002686,
+            "genre": "chico",
+            "class": "pantalones"
+        },
+        {
+            "x": 373.4712874889374,
+            "y": 290.29627871513367,
+            "width": 140.4873490333557,
+            "height": 212.6540538072586,
+            "genre": "chico",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "cc9ygdflk4ds0d7nu5a7x4359hcj3f4z6zi2kwze67afq1fb7p745v48lys24mvi.jpg"
+}

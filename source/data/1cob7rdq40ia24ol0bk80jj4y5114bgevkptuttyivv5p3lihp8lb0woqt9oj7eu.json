@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 1037.3659443855286,
+            "y": 941.255274772644,
+            "width": 52.99811124801636,
+            "height": 88.4470648765564,
+            "genre": "hombre",
+            "class": "anillos"
+        },
+        {
+            "x": 897.556893825531,
+            "y": 712.1743034124374,
+            "width": 78.06065082550049,
+            "height": 96.72520470619202,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 171.519455909729,
+            "y": 683.3185631036758,
+            "width": 123.48740100860596,
+            "height": 252.49990248680115,
+            "genre": "mujer",
+            "class": "pendientes"
+        }
+    ],
+    "file_name": "1cob7rdq40ia24ol0bk80jj4y5114bgevkptuttyivv5p3lihp8lb0woqt9oj7eu.jpg"
+}

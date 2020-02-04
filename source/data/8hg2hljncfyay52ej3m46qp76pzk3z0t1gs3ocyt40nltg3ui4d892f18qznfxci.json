@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 504.0479278564453,
+            "y": 907.1797585487366,
+            "width": 45.85148334503174,
+            "height": 74.17599678039551,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 466.826548576355,
+            "y": 680.034613609314,
+            "width": 136.7016363143921,
+            "height": 210.66790580749512,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 437.5994288921356,
+            "y": 494.03695821762085,
+            "width": 180.1996099948883,
+            "height": 202.4315071105957,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "8hg2hljncfyay52ej3m46qp76pzk3z0t1gs3ocyt40nltg3ui4d892f18qznfxci.jpg"
+}

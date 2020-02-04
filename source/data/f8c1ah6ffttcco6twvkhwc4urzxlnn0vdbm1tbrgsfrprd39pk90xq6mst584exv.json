@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 544.040629863739,
+            "y": 1089.1090393066406,
+            "width": 87.02176094055176,
+            "height": 54.13110852241516,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 119.17234897613525,
+            "y": 1052.4229377508163,
+            "width": 67.08292722702026,
+            "height": 79.61139678955078,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 219.0807831287384,
+            "y": 527.3390829563141,
+            "width": 210.24767875671387,
+            "height": 294.5848435163498,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 154.84518706798553,
+            "y": 1095.611196756363,
+            "width": 452.44193136692047,
+            "height": 249.8891294002533,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 52.892056703567505,
+            "y": 598.5408291220665,
+            "width": 603.0132329463959,
+            "height": 579.492612183094,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "f8c1ah6ffttcco6twvkhwc4urzxlnn0vdbm1tbrgsfrprd39pk90xq6mst584exv.jpg"
+}

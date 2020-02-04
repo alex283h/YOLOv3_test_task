@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 119.61190402507782,
+            "y": 902.6836895942688,
+            "width": 214.91077959537506,
+            "height": 138.04239749908447,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 362.4263262748718,
+            "y": 397.7403974533081,
+            "width": 237.9271101951599,
+            "height": 301.16323471069336,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 212.3092246055603,
+            "y": 613.8258719444275,
+            "width": 370.5900478363037,
+            "height": 305.18332958221436,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "ql8ekigp1zbtkefvgxcyqkafi3n7z5vkfp4y5hulbnfmta7owb82co06f3fstead.jpg"
+}

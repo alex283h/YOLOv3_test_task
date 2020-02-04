@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 1005.847499370575,
+            "y": 306.87657326459885,
+            "width": 68.74227046966553,
+            "height": 65.79870164394379,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 366.28233432769775,
+            "y": 648.9007169008255,
+            "width": 56.04057312011719,
+            "height": 90.07864236831665,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 938.084728717804,
+            "y": 397.5870046019554,
+            "width": 148.35553407669067,
+            "height": 167.20466941595078,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 98.1355208158493,
+            "y": 600.8726853132248,
+            "width": 417.23768055438995,
+            "height": 191.60016775131226,
+            "genre": "hombre",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 68.98268759250641,
+            "y": 318.96908462047577,
+            "width": 439.59748685359955,
+            "height": 395.5617892742157,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "otwth61kqn30lwoekcdxdjilwpkvv3hh6i2kwht0lctzh6rxdxlqs49va42ymo3o.jpg"
+}

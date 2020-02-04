@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 305.2792453765869,
+            "y": 793.5030788183212,
+            "width": 39.212050437927246,
+            "height": 46.54828906059265,
+            "genre": "mujer",
+            "class": "anillos"
+        },
+        {
+            "x": 503.644437789917,
+            "y": 764.5510733127594,
+            "width": 560.9732437133789,
+            "height": 573.5093414783478,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 11.30843997001648,
+            "y": 303.5857602953911,
+            "width": 709.2355978488922,
+            "height": 1017.4988463521004,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "z5q50f11atxtvpjz9enb3z3ry1s0jtl8tyyla3w5v8whpt6uc6pnk9vj30mqtzzn.jpg"
+}

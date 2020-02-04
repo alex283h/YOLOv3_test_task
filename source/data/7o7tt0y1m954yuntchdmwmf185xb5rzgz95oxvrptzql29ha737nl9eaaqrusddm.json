@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 358.19124698638916,
+            "y": 168.05496454238892,
+            "width": 39.99838829040527,
+            "height": 47.724609375,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 219.81314420700073,
+            "y": 250.10921001434326,
+            "width": 184.0551781654358,
+            "height": 113.82432460784912,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 0.0,
+            "y": 305.3290271759033,
+            "width": 635.2778148651123,
+            "height": 420.78014373779297,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "7o7tt0y1m954yuntchdmwmf185xb5rzgz95oxvrptzql29ha737nl9eaaqrusddm.jpg"
+}

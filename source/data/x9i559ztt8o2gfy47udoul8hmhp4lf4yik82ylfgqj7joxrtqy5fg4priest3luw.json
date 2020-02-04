@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 217.53110575675964,
+            "y": 787.7789940834045,
+            "width": 69.06412839889526,
+            "height": 44.85971260070801,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 127.57315242290497,
+            "y": 659.2912044525146,
+            "width": 176.51944506168365,
+            "height": 153.00579357147217,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 127.17074865102768,
+            "y": 544.410728931427,
+            "width": 189.4741399884224,
+            "height": 158.9450225830078,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "x9i559ztt8o2gfy47udoul8hmhp4lf4yik82ylfgqj7joxrtqy5fg4priest3luw.jpg"
+}

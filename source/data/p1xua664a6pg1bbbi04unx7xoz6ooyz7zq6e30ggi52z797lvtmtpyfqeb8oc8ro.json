@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 383.8670790195465,
+            "y": 360.16783118247986,
+            "width": 136.4059066772461,
+            "height": 81.52527093887329,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 369.61041927337646,
+            "y": 457.99811124801636,
+            "width": 156.65302276611328,
+            "height": 174.6401309967041,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 343.188933134079,
+            "y": 702.0234704017639,
+            "width": 227.97661900520325,
+            "height": 396.97094678878784,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 213.6327338218689,
+            "y": 429.307701587677,
+            "width": 352.7909731864929,
+            "height": 391.286358833313,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "p1xua664a6pg1bbbi04unx7xoz6ooyz7zq6e30ggi52z797lvtmtpyfqeb8oc8ro.jpg"
+}

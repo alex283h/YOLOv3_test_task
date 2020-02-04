@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 346.9461441040039,
+            "y": 619.1376876831055,
+            "width": 115.70556640625,
+            "height": 22.567787170410156,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 161.3653564453125,
+            "y": 576.5597152709961,
+            "width": 87.90668487548828,
+            "height": 61.803741455078125,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 293.06751251220703,
+            "y": 192.21689224243164,
+            "width": 183.61244201660156,
+            "height": 253.18708419799805,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "9te3mubeyi564a58is0jntfduxsecfc163mokyavur3ub5g0k75anykin1g9oyqg.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 780.8040989637375,
+            "y": 506.53596103191376,
+            "width": 114.69864916801453,
+            "height": 71.09590458869934,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 301.5864963531494,
+            "y": 399.19447445869446,
+            "width": 484.2699975967407,
+            "height": 497.2594392299652,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 277.06998747587204,
+            "y": 859.3179745674133,
+            "width": 535.1622486710548,
+            "height": 486.7776861190796,
+            "genre": "mujer",
+            "class": "falda"
+        }
+    ],
+    "file_name": "gcv5ejwfl32qpzzd1oel22rkzr751pcor5fb9lqqzi0rnl40h7szw7sfhzyix5r7.jpg"
+}

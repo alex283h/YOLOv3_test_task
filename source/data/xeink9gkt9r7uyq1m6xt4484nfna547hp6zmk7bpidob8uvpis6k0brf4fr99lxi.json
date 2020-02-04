@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 759.3052196502686,
+            "y": 371.3963842391968,
+            "width": 71.89101219177246,
+            "height": 158.08300495147705,
+            "genre": "chico",
+            "class": "collares"
+        },
+        {
+            "x": 649.5030069351196,
+            "y": 776.1350297927856,
+            "width": 287.58039951324463,
+            "height": 302.05724716186523,
+            "genre": "chico",
+            "class": "pantalones"
+        },
+        {
+            "x": 619.3235206604004,
+            "y": 363.49247217178345,
+            "width": 200.88449478149414,
+            "height": 478.0537176132202,
+            "genre": "chico",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 551.5400862693787,
+            "y": 308.12408208847046,
+            "width": 463.8406705856323,
+            "height": 608.1196546554565,
+            "genre": "chico",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "xeink9gkt9r7uyq1m6xt4484nfna547hp6zmk7bpidob8uvpis6k0brf4fr99lxi.jpg"
+}

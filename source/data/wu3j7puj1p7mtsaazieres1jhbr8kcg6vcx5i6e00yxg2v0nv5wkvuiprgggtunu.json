@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 625.9314751625061,
+            "y": 749.4831557869911,
+            "width": 128.58149528503418,
+            "height": 408.5303484201431,
+            "genre": "hombre",
+            "class": "corbatas"
+        },
+        {
+            "x": 374.3997073173523,
+            "y": 723.7358961105347,
+            "width": 120.34149169921875,
+            "height": 487.16855001449585,
+            "genre": "hombre",
+            "class": "corbatas"
+        },
+        {
+            "x": 571.3797855377197,
+            "y": 1095.4892004728317,
+            "width": 314.7678279876709,
+            "height": 261.869233250618,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 150.50208449363708,
+            "y": 684.1216224431992,
+            "width": 436.10732674598694,
+            "height": 606.9820402860641,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 483.84973526000977,
+            "y": 668.4618614315987,
+            "width": 483.56160163879395,
+            "height": 593.996685385704,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "wu3j7puj1p7mtsaazieres1jhbr8kcg6vcx5i6e00yxg2v0nv5wkvuiprgggtunu.jpg"
+}

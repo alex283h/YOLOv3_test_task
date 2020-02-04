@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 616.4209413528442,
+            "y": 550.6601071357727,
+            "width": 112.87975788116455,
+            "height": 110.50645351409912,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 548.8281154632568,
+            "y": 306.3775134086609,
+            "width": 193.8404130935669,
+            "height": 93.14086675643921,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 510.7517981529236,
+            "y": 557.4418044090271,
+            "width": 298.21404933929443,
+            "height": 493.99827003479004,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 419.1916751861572,
+            "y": 526.0722541809082,
+            "width": 559.1248369216919,
+            "height": 547.6941204071045,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "rjog9u1rk0hkg0bapoj54mcjzhwsa0uu1dhzosuxhqzwz7g4dsynkcwydatrkzgb.jpg"
+}

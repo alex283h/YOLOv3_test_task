@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 421.3771390914917,
+            "y": 719.5145899653435,
+            "width": 254.11158084869385,
+            "height": 175.454061627388,
+            "genre": "mujer",
+            "class": "bufandas"
+        },
+        {
+            "x": 593.5736703872681,
+            "y": 787.3952736854553,
+            "width": 234.6817445755005,
+            "height": 286.7126623392105,
+            "genre": "mujer",
+            "class": "mochilas"
+        },
+        {
+            "x": 352.9473352432251,
+            "y": 787.6049997210503,
+            "width": 417.761435508728,
+            "height": 279.86572790145874,
+            "genre": "mujer",
+            "class": "abrigos"
+        },
+        {
+            "x": 381.1351203918457,
+            "y": 736.7186848521233,
+            "width": 444.9974012374878,
+            "height": 326.40612828731537,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "2uzhdystyty7ayturihoa1x38vz5k97dsjyaa34ed0pcgoz0g1j8fcr3p0tu74we.jpg"
+}

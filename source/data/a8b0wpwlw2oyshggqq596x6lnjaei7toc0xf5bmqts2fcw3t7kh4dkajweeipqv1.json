@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 307.38752603530884,
+            "y": 389.2857027053833,
+            "width": 139.5197582244873,
+            "height": 66.70982551574707,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 177.09477066993713,
+            "y": 113.04274463653564,
+            "width": 327.80632495880127,
+            "height": 200.90685367584229,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 266.95258140563965,
+            "y": 485.2609634399414,
+            "width": 267.51893520355225,
+            "height": 283.726993560791,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 167.91728675365448,
+            "y": 781.026237487793,
+            "width": 450.42679846286774,
+            "height": 473.6767387390137,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 85.43023467063904,
+            "y": 377.70705699920654,
+            "width": 615.8429682254791,
+            "height": 881.6910524368286,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "a8b0wpwlw2oyshggqq596x6lnjaei7toc0xf5bmqts2fcw3t7kh4dkajweeipqv1.jpg"
+}

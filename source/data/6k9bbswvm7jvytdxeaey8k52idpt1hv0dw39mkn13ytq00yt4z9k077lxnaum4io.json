@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 583.4930822253227,
+            "y": 460.24446696043015,
+            "width": 111.18540644645691,
+            "height": 48.5601931810379,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 546.2403354048729,
+            "y": 749.0411953926086,
+            "width": 155.48545897006989,
+            "height": 56.91253626346588,
+            "genre": "mujer",
+            "class": "cinturones"
+        },
+        {
+            "x": 358.41647922992706,
+            "y": 664.6620582342148,
+            "width": 177.95757740736008,
+            "height": 191.44549918174744,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 306.65758699178696,
+            "y": 470.56853598356247,
+            "width": 234.51566845178604,
+            "height": 226.98353612422943,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 521.814049333334,
+            "y": 554.4131990671158,
+            "width": 234.32672336697578,
+            "height": 239.89105713367462,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 508.49626153707504,
+            "y": 539.4500553607941,
+            "width": 328.3002895116806,
+            "height": 319.2235051393509,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "6k9bbswvm7jvytdxeaey8k52idpt1hv0dw39mkn13ytq00yt4z9k077lxnaum4io.jpg"
+}

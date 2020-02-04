@@ -1,0 +1,61 @@
+{
+    "arr_boxes": [
+        {
+            "x": 303.3564233779907,
+            "y": 460.5533926188946,
+            "width": 140.7106590270996,
+            "height": 76.89417600631714,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 600.190315246582,
+            "y": 1040.6800508499146,
+            "width": 115.99154949188232,
+            "height": 157.10731744766235,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 177.88943946361542,
+            "y": 506.84490352869034,
+            "width": 282.9079967737198,
+            "height": 357.5771588087082,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 641.9443273544312,
+            "y": 1018.2754307985306,
+            "width": 329.74137783050537,
+            "height": 333.92143309116364,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 119.93899941444397,
+            "y": 845.2674630284309,
+            "width": 455.3702437877655,
+            "height": 507.1695849299431,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 587.0981311798096,
+            "y": 506.9658774137497,
+            "width": 457.38444328308105,
+            "height": 593.7218701839447,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 56.75060749053955,
+            "y": 439.42348778247833,
+            "width": 577.4255061149597,
+            "height": 731.4659905433655,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "lgh72jpel4ew1uwvvt8l4phy42q3nqh6snnfppsbxorcrbm6ui8ly3o7rzfsjz7r.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 379.9625337123871,
+            "y": 849.1877174377441,
+            "width": 57.08212852478027,
+            "height": 54.84902858734131,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 466.04357957839966,
+            "y": 393.72751235961914,
+            "width": 119.75685596466064,
+            "height": 104.76206302642822,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 425.3647255897522,
+            "y": 168.2465386390686,
+            "width": 221.64376258850098,
+            "height": 209.9673342704773,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 413.58330488204956,
+            "y": 514.4950246810913,
+            "width": 279.51613426208496,
+            "height": 181.09004974365234,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 407.2262120246887,
+            "y": 658.3835220336914,
+            "width": 303.27067852020264,
+            "height": 294.86459255218506,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        }
+    ],
+    "file_name": "atvr1idiqhw74eg1zl8uxtxgjcj3vfsgne9cahrr0rigja1wlhs3j41wrhshv4le.jpg"
+}

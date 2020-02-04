@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 500.4501521587372,
+            "y": 441.09942626953125,
+            "width": 82.73641705513,
+            "height": 114.74726104736328,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 483.2568597793579,
+            "y": 294.0300807952881,
+            "width": 123.7159252166748,
+            "height": 176.10420608520508,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "5ocu3g68vrtt70qu93ohmxjpffrkw6wv8dng80oixgbwk5kq87h4aldww9l7yi6x.jpg"
+}

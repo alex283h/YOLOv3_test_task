@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 601.0616683959961,
+            "y": 449.6998742222786,
+            "width": 144.19916152954102,
+            "height": 115.47489166259766,
+            "genre": "chica",
+            "class": "sombreros"
+        },
+        {
+            "x": 586.9367480278015,
+            "y": 964.4855350255966,
+            "width": 264.7788333892822,
+            "height": 292.2866463661194,
+            "genre": "chica",
+            "class": "bolso"
+        },
+        {
+            "x": 423.6623811721802,
+            "y": 636.2520709633827,
+            "width": 388.64925384521484,
+            "height": 713.157145678997,
+            "genre": "chica",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "nohdkoqt7y48mfojxqgk99zl5hkdjk4oaasjhlkfs0lepedlah6phl9ty121xrb8.jpg"
+}

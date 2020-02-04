@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 556.1829257011414,
+            "y": 872.7542924880981,
+            "width": 37.24197864532471,
+            "height": 35.5063533782959,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 561.9145059585571,
+            "y": 695.5471587181091,
+            "width": 143.41381072998047,
+            "height": 193.74810218811035,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "s3tbbvbjnqqebegu0nxukuy432qgqp44nwmbwih7hjstendiadjz17bq7sti1j5g.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 196.43693089485168,
+            "y": 682.609753549099,
+            "width": 164.22090768814087,
+            "height": 197.44127357006073,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 375.3774690628052,
+            "y": 494.80574825406075,
+            "width": 160.25346994400024,
+            "height": 211.23022982478142,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 273.44820499420166,
+            "y": 664.5362056493759,
+            "width": 248.54904413223267,
+            "height": 400.38558852672577,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "ad4vb2cje68itmacfq8jz8izsm9gz0ner4qxnlaht2rge32jqnik4dmhj5iex8fc.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 459.33327198028564,
+            "y": 472.60784089565277,
+            "width": 61.249637603759766,
+            "height": 71.18860602378845,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 518.7268424034119,
+            "y": 207.75882482528687,
+            "width": 305.964560508728,
+            "height": 250.0713050365448,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 194.34562861919403,
+            "y": 21.683153361082077,
+            "width": 328.9772540330887,
+            "height": 281.1929829418659,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 2.0480114221572876,
+            "y": 355.0415986776352,
+            "width": 427.0094722509384,
+            "height": 446.5481150150299,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "mvo2i01klxfztyekam3sanu257o2plb3plbgtpk46fchdda3yry44s3kt4egp3iw.jpg"
+}

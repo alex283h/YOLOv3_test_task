@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 212.1452021598816,
+            "y": 580.5462455749512,
+            "width": 140.27639865875244,
+            "height": 83.27074527740479,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 307.6840603351593,
+            "y": 997.449266910553,
+            "width": 151.38035774230957,
+            "height": 98.1774115562439,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 82.72788763046265,
+            "y": 696.9493961334229,
+            "width": 316.805716753006,
+            "height": 388.20186138153076,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "8ni3fj877w65yolgvh296uzjoxbxv68coqamro2hn6gv95u0zsh93o1mdqertj3m.jpg"
+}

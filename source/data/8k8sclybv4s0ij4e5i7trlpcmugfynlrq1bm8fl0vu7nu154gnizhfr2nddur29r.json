@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 255.63644886016846,
+            "y": 335.2896451950073,
+            "width": 94.23471450805664,
+            "height": 151.15513801574707,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 223.62679481506348,
+            "y": 232.4626350402832,
+            "width": 152.84720420837402,
+            "height": 145.0217628479004,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "8k8sclybv4s0ij4e5i7trlpcmugfynlrq1bm8fl0vu7nu154gnizhfr2nddur29r.jpg"
+}

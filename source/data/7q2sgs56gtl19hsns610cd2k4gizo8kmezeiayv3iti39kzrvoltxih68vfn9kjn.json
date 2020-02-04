@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 462.00266432762146,
+            "y": 348.7342847585678,
+            "width": 49.43591260910034,
+            "height": 27.398712694644928,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 425.3619359731674,
+            "y": 479.7563931941986,
+            "width": 117.4988055229187,
+            "height": 126.03272294998169,
+            "genre": "mujer",
+            "class": "mochilas"
+        },
+        {
+            "x": 463.99880385398865,
+            "y": 394.43622279167175,
+            "width": 133.76292037963867,
+            "height": 190.30318558216095,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "7q2sgs56gtl19hsns610cd2k4gizo8kmezeiayv3iti39kzrvoltxih68vfn9kjn.jpg"
+}

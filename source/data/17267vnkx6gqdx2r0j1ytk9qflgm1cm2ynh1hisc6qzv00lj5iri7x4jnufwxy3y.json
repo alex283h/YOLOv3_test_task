@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 320.61861991882324,
+            "y": 326.2893533706665,
+            "width": 118.7611198425293,
+            "height": 113.20140838623047,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 483.9762496948242,
+            "y": 285.0645089149475,
+            "width": 153.73226165771484,
+            "height": 131.76231622695923,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 498.1050682067871,
+            "y": 371.90218448638916,
+            "width": 359.3536376953125,
+            "height": 343.4278964996338,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "17267vnkx6gqdx2r0j1ytk9qflgm1cm2ynh1hisc6qzv00lj5iri7x4jnufwxy3y.jpg"
+}

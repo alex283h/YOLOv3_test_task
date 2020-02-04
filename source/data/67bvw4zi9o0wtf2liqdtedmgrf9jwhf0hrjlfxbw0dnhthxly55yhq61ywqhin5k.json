@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 372.83026099205017,
+            "y": 1187.9289418458939,
+            "width": 98.92066240310669,
+            "height": 82.68907070159912,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 243.16993832588196,
+            "y": 1218.3987826108932,
+            "width": 121.63738489151001,
+            "height": 88.43146562576294,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 281.8365240097046,
+            "y": 847.9714214801788,
+            "width": 157.9172444343567,
+            "height": 220.73652148246765,
+            "genre": "hombre",
+            "class": "falda"
+        }
+    ],
+    "file_name": "67bvw4zi9o0wtf2liqdtedmgrf9jwhf0hrjlfxbw0dnhthxly55yhq61ywqhin5k.jpg"
+}

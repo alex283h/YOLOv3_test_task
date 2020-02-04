@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 546.1253499984741,
+            "y": 797.3214769363403,
+            "width": 36.82239532470703,
+            "height": 38.20615768432617,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 525.5999493598938,
+            "y": 345.21533131599426,
+            "width": 228.2471466064453,
+            "height": 129.509174823761,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 472.318274974823,
+            "y": 505.3555369377136,
+            "width": 290.78192710876465,
+            "height": 351.7588806152344,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "hmvmlht2xntg34zrp5qmlenrix9yjr27c8ypk9vdgctt3zdsmsxzb5vo9wau94td.jpg"
+}

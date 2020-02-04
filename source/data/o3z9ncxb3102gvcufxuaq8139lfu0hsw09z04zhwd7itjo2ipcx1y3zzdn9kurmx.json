@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 808.0322456359863,
+            "y": 432.76062190532684,
+            "width": 88.90711784362793,
+            "height": 44.817330837249756,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 19.57560896873474,
+            "y": 303.5450041294098,
+            "width": 159.27224814891815,
+            "height": 60.61678647994995,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 91.22797429561615,
+            "y": 575.8742451667786,
+            "width": 194.54129040241241,
+            "height": 239.5764434337616,
+            "genre": "hombre",
+            "class": "corbatas"
+        },
+        {
+            "x": 792.2925281524658,
+            "y": 484.94056820869446,
+            "width": 282.24464893341064,
+            "height": 310.25627732276917,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "o3z9ncxb3102gvcufxuaq8139lfu0hsw09z04zhwd7itjo2ipcx1y3zzdn9kurmx.jpg"
+}

@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 717.012791633606,
+            "y": 410.4681980609894,
+            "width": 125.16715049743652,
+            "height": 87.13827610015869,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 384.635306596756,
+            "y": 481.3476848602295,
+            "width": 176.33916020393372,
+            "height": 118.83220195770264,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 713.9185738563538,
+            "y": 875.0204801559448,
+            "width": 175.5307960510254,
+            "height": 202.34447479248047,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 383.7730622291565,
+            "y": 875.8392405509949,
+            "width": 262.19438552856445,
+            "height": 209.70211744308472,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 392.72570729255676,
+            "y": 639.1395306587219,
+            "width": 266.79747462272644,
+            "height": 263.21083545684814,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 676.7746996879578,
+            "y": 510.8028781414032,
+            "width": 250.34588813781738,
+            "height": 403.3978521823883,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "fc3jjz6vkgb7fx4tq0bn3zcbqstner9cjpy8loxizvjayzmbvpu4yl5ma1rokds2.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 424.3721580505371,
+            "y": 676.858127117157,
+            "width": 195.0139331817627,
+            "height": 272.0664381980896,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 297.96276926994324,
+            "y": 691.6572421789169,
+            "width": 201.09782695770264,
+            "height": 364.65012431144714,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 134.67960745096207,
+            "y": 763.265061378479,
+            "width": 256.5443417429924,
+            "height": 508.14658999443054,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "079a5mkjimoisxidxguu9bn82pe0r35xpu76t9s1irl0nfq5v58gaebne3lhoq7o.jpg"
+}

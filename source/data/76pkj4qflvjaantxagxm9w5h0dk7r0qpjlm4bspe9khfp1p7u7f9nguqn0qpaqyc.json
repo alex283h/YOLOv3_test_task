@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 594.0576910972595,
+            "y": 1123.5267162322998,
+            "width": 76.69027805328369,
+            "height": 116.72405004501343,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 690.9029674530029,
+            "y": 1052.4811148643494,
+            "width": 71.91611766815186,
+            "height": 140.0058388710022,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 586.76429271698,
+            "y": 700.8217871189117,
+            "width": 162.94458389282227,
+            "height": 431.7054033279419,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 524.8036873340607,
+            "y": 519.9095517396927,
+            "width": 297.77621626853943,
+            "height": 457.612806558609,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "76pkj4qflvjaantxagxm9w5h0dk7r0qpjlm4bspe9khfp1p7u7f9nguqn0qpaqyc.jpg"
+}

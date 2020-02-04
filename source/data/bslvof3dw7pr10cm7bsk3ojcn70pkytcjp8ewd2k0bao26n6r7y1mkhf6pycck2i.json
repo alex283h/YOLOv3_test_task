@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 107.85620838403702,
+            "y": 604.5624017715454,
+            "width": 137.73045390844345,
+            "height": 255.07859230041504,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 724.8854827880859,
+            "y": 290.213223695755,
+            "width": 189.6632480621338,
+            "height": 188.5122585296631,
+            "genre": "chico",
+            "class": "sombreros"
+        }
+    ],
+    "file_name": "bslvof3dw7pr10cm7bsk3ojcn70pkytcjp8ewd2k0bao26n6r7y1mkhf6pycck2i.jpg"
+}

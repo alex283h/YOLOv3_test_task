@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 380.5301947593689,
+            "y": 452.386821269989,
+            "width": 169.31721305847168,
+            "height": 622.0032827854156,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 324.37344551086426,
+            "y": 1039.9026138782501,
+            "width": 416.8454418182373,
+            "height": 293.77738308906555,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 300.38837718963623,
+            "y": 356.72916457057,
+            "width": 589.5831136703491,
+            "height": 791.0258330404758,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "y5p25v7ouixrp80bd7f2tzmdhekjco90a0esspj4umzyn9q0g0yu4fck4okggvbx.jpg"
+}

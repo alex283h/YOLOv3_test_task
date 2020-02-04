@@ -1,0 +1,20 @@
+{
+    "arr_boxes": [
+        {
+            "x": 350.0275683403015,
+            "y": 930.6203161478043,
+            "width": 193.0790090560913,
+            "height": 200.54217112064362,
+            "class": "pulseras"
+        },
+        {
+            "x": 312.0810914039612,
+            "y": 51.550779312849045,
+            "width": 455.9614133834839,
+            "height": 375.90126889944077,
+            "genre": "mujer",
+            "class": "sombreros"
+        }
+    ],
+    "file_name": "ls122sa6ct2h8d6lwl98qi6msre4g1kknrmfyppktysgym71ivzq2lruaghenbyn.jpg"
+}

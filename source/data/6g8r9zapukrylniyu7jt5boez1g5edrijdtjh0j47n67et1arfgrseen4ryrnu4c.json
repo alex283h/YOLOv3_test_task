@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 472.90648341178894,
+            "y": 449.41252917051315,
+            "width": 113.12421441078186,
+            "height": 111.04176342487335,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 21.94743275642395,
+            "y": 0.0,
+            "width": 538.105663061142,
+            "height": 187.97504156827927,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 30.485402941703796,
+            "y": 5.152225121855736,
+            "width": 535.1715570688248,
+            "height": 254.73101623356342,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 51.4040744304657,
+            "y": 262.3103052377701,
+            "width": 629.0386641025543,
+            "height": 1044.0780222415924,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "6g8r9zapukrylniyu7jt5boez1g5edrijdtjh0j47n67et1arfgrseen4ryrnu4c.jpg"
+}

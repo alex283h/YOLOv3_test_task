@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 817.2809100151062,
+            "y": 401.5614911913872,
+            "width": 43.71932029724121,
+            "height": 62.223440408706665,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 583.9878845214844,
+            "y": 580.1991865038872,
+            "width": 444.9646997451782,
+            "height": 649.6414974331856,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 101.37134313583374,
+            "y": 363.5104402899742,
+            "width": 847.5041699409485,
+            "height": 1036.7949798703194,
+            "genre": "mujer",
+            "class": "monos"
+        }
+    ],
+    "file_name": "41y818afv2dqaqi2vfu678rtm7m3osadp8tc2penrin9rdm9ms8xrbnxbxloosj9.jpg"
+}

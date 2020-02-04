@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 589.181113243103,
+            "y": 1056.5353397727013,
+            "width": 77.52785325050354,
+            "height": 71.83943712711334,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 464.396326392889,
+            "y": 780.5478675961494,
+            "width": 169.2804814875126,
+            "height": 196.31541073322296,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 445.66232442855835,
+            "y": 869.1821077466011,
+            "width": 200.2758228778839,
+            "height": 213.3586871623993,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "tglznt1yb848imzfd4p7t5erzxztg6aobllm2lcvbuxuj0sdzg3bv19l65m425ui.jpg"
+}

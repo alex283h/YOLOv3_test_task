@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 424.69984889030457,
+            "y": 562.6618444919586,
+            "width": 205.6755530834198,
+            "height": 190.39977192878723,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 404.8944282531738,
+            "y": 714.7036671638489,
+            "width": 271.41234397888184,
+            "height": 279.56090569496155,
+            "genre": "hombre",
+            "class": "bufandas"
+        },
+        {
+            "x": 360.89444160461426,
+            "y": 771.5403735637665,
+            "width": 387.05241680145264,
+            "height": 565.5800342559814,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "1myxzjhhps3t2cbph67intlz8sw0s6afgvpm69eqzq5skphy6pm2quy1be4te5u7.jpg"
+}

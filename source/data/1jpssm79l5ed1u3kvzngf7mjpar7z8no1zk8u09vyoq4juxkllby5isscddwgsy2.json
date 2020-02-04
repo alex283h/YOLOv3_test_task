@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 31.48209571838379,
+            "y": 138.67887496948242,
+            "width": 102.58369088172913,
+            "height": 110.09862899780273,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 13.566532731056213,
+            "y": 229.38350200653076,
+            "width": 107.13718593120575,
+            "height": 147.89876461029053,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "1jpssm79l5ed1u3kvzngf7mjpar7z8no1zk8u09vyoq4juxkllby5isscddwgsy2.jpg"
+}

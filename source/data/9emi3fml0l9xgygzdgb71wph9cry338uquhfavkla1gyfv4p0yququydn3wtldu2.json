@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 646.1504602432251,
+            "y": 875.3626871109009,
+            "width": 155.47126293182373,
+            "height": 96.18255615234375,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 890.3258085250854,
+            "y": 704.4694519042969,
+            "width": 117.04791069030762,
+            "height": 197.19579219818115,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 588.1197309494019,
+            "y": 110.65300673246384,
+            "width": 212.55133152008057,
+            "height": 186.98512941598892,
+            "genre": "mujer",
+            "class": "bufandas"
+        },
+        {
+            "x": 590.142138004303,
+            "y": 431.59693479537964,
+            "width": 212.73273468017578,
+            "height": 445.44530868530273,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 463.9686441421509,
+            "y": 132.00055539608002,
+            "width": 442.26309299468994,
+            "height": 348.8182407617569,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "9emi3fml0l9xgygzdgb71wph9cry338uquhfavkla1gyfv4p0yququydn3wtldu2.jpg"
+}

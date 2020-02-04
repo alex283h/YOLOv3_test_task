@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 440.15645384788513,
+            "y": 490.98538756370544,
+            "width": 134.32044625282288,
+            "height": 72.01773047447205,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 373.58217000961304,
+            "y": 355.9911811351776,
+            "width": 166.03339433670044,
+            "height": 91.95112466812134,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 171.5135657787323,
+            "y": 534.8619067668915,
+            "width": 588.3340609073639,
+            "height": 513.7105429172516,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "8qz8fqusywdvlm9uhps1p9rpcu9j9p4h2q4ta443p47255javdqizjaray3e1rk9.jpg"
+}

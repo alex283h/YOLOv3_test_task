@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 376.1388409137726,
+            "y": 1064.3022537231445,
+            "width": 58.15857410430908,
+            "height": 97.7707028388977,
+            "genre": "hombre",
+            "class": "anillos"
+        },
+        {
+            "x": 544.1704702377319,
+            "y": 1087.5772833824158,
+            "width": 181.50396823883057,
+            "height": 236.67833805084229,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 0.0,
+            "y": 505.25153428316116,
+            "width": 1065.2859377861023,
+            "height": 770.5489084124565,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "q9d7br5qhyx4txwzs9rxp7dzt5sixpx4wvi355ccbyjqtzfvpnwx86bk3difioeb.jpg"
+}

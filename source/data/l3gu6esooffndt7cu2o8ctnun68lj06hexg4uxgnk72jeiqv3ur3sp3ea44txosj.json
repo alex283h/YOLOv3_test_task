@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 469.56021308898926,
+            "y": 494.1553831100464,
+            "width": 218.61102104187012,
+            "height": 144.92651224136353,
+            "genre": "bebe",
+            "class": "botas"
+        },
+        {
+            "x": 151.94092869758606,
+            "y": 271.2450385093689,
+            "width": 197.13977694511414,
+            "height": 193.68263483047485,
+            "genre": "bebe",
+            "class": "camisas"
+        },
+        {
+            "x": 253.47167015075684,
+            "y": 413.89690339565277,
+            "width": 443.26409339904785,
+            "height": 216.0871535539627,
+            "genre": "bebe",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "l3gu6esooffndt7cu2o8ctnun68lj06hexg4uxgnk72jeiqv3ur3sp3ea44txosj.jpg"
+}

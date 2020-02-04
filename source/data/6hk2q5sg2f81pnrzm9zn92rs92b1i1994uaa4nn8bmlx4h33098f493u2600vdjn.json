@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 496.1706018447876,
+            "y": 422.3205015063286,
+            "width": 37.98065900802612,
+            "height": 33.91934931278229,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 505.3398299217224,
+            "y": 1168.2640314102173,
+            "width": 73.54269504547119,
+            "height": 122.92107939720154,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 480.2864956855774,
+            "y": 497.3899394273758,
+            "width": 95.08995294570923,
+            "height": 202.4316519498825,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 432.75925397872925,
+            "y": 721.822115778923,
+            "width": 202.09380626678467,
+            "height": 483.86895060539246,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 378.15516471862793,
+            "y": 445.64151763916016,
+            "width": 292.3486375808716,
+            "height": 389.33621048927307,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "6hk2q5sg2f81pnrzm9zn92rs92b1i1994uaa4nn8bmlx4h33098f493u2600vdjn.jpg"
+}

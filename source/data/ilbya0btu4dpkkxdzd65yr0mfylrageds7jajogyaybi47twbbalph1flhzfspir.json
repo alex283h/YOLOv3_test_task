@@ -1,0 +1,53 @@
+{
+    "arr_boxes": [
+        {
+            "x": 301.1782872080803,
+            "y": 277.250586271286,
+            "width": 60.9616539478302,
+            "height": 28.642235159873962,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 175.0638474225998,
+            "y": 231.62506395578384,
+            "width": 59.10744386911392,
+            "height": 37.55313044786453,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 125.84489485621452,
+            "y": 511.7190747857094,
+            "width": 127.1632530093193,
+            "height": 71.68745392560959,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 262.49394074082375,
+            "y": 504.9031047821045,
+            "width": 125.6375632584095,
+            "height": 78.0898689031601,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 260.9153705239296,
+            "y": 324.72453540563583,
+            "width": 145.45258724689484,
+            "height": 199.54525220394135,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 115.53778384625912,
+            "y": 297.3604006767273,
+            "width": 144.46909542381763,
+            "height": 222.60639917850494,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "ilbya0btu4dpkkxdzd65yr0mfylrageds7jajogyaybi47twbbalph1flhzfspir.jpg"
+}

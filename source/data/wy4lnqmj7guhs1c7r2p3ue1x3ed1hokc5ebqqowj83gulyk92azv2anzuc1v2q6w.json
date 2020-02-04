@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 209.94391858577728,
+            "y": 924.8919939994812,
+            "width": 118.23651015758514,
+            "height": 63.21803569793701,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 33.326650857925415,
+            "y": 776.2843751907349,
+            "width": 144.91935074329376,
+            "height": 73.55595588684082,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 546.202597618103,
+            "y": 684.140260219574,
+            "width": 196.76822662353516,
+            "height": 192.9435682296753,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 28.63777667284012,
+            "y": 532.1489059925079,
+            "width": 206.00637406110764,
+            "height": 186.98021292686462,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "wy4lnqmj7guhs1c7r2p3ue1x3ed1hokc5ebqqowj83gulyk92azv2anzuc1v2q6w.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 327.65373945236206,
+            "y": 270.2784615755081,
+            "width": 53.78002882003784,
+            "height": 61.58590614795685,
+            "genre": "hombre",
+            "class": "botas"
+        },
+        {
+            "x": 604.2541408538818,
+            "y": 95.12445084750652,
+            "width": 49.333248138427734,
+            "height": 99.55219991505146,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "c6cwpf2he12urg54yxag6bxvf3vp0pvqn8ag98jxny53gik6vvfvi7tvtom8jx5k.jpg"
+}

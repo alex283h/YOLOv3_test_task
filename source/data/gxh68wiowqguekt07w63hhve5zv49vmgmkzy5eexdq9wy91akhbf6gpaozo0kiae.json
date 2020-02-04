@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 209.3013471364975,
+            "y": 232.75971114635468,
+            "width": 202.1359544992447,
+            "height": 202.71879583597183,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 402.42910265922546,
+            "y": 544.393265247345,
+            "width": 264.834805727005,
+            "height": 228.23010385036469,
+            "genre": "mujer",
+            "class": "bufandas"
+        },
+        {
+            "x": 86.55085623264313,
+            "y": 1182.9722195863724,
+            "width": 383.05667102336884,
+            "height": 172.64931499958038,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 378.7291145324707,
+            "y": 553.2422617077827,
+            "width": 443.14783573150635,
+            "height": 737.3808726668358,
+            "genre": "mujer",
+            "class": "abrigos"
+        },
+        {
+            "x": 6.326016783714294,
+            "y": 460.8311355113983,
+            "width": 449.937499165535,
+            "height": 775.172621011734,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "gxh68wiowqguekt07w63hhve5zv49vmgmkzy5eexdq9wy91akhbf6gpaozo0kiae.jpg"
+}

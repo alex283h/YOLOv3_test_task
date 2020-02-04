@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 730.5623459815979,
+            "y": 540.1119572818279,
+            "width": 127.35815048217773,
+            "height": 97.99610638618469,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 292.2580325603485,
+            "y": 647.1705783605576,
+            "width": 179.1946506500244,
+            "height": 269.7029330730438,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 49.764429330825806,
+            "y": 622.765506953001,
+            "width": 655.1238334178925,
+            "height": 682.8578306734562,
+            "genre": "mujer",
+            "class": "trajes de ba\u00f1o"
+        }
+    ],
+    "file_name": "u7m860ernpxrh9im0dzq4w62v57d6r8p3lfs1emm6z07tnql0y8a3dlthgc2rbzr.jpg"
+}

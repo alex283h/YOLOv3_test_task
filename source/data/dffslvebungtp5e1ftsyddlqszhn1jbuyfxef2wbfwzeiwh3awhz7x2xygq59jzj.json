@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 882.6094794273376,
+            "y": 505.2395925819874,
+            "width": 81.16111278533936,
+            "height": 56.24128431081772,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 668.6168360710144,
+            "y": 1296.8239628076553,
+            "width": 132.3380470275879,
+            "height": 52.82674562931061,
+            "genre": "hombre",
+            "class": "botas"
+        },
+        {
+            "x": 724.3338060379028,
+            "y": 951.7291172146797,
+            "width": 238.5199213027954,
+            "height": 395.38269090652466,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 683.6499309539795,
+            "y": 573.2941435575485,
+            "width": 345.65696239471436,
+            "height": 417.3781726360321,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "dffslvebungtp5e1ftsyddlqszhn1jbuyfxef2wbfwzeiwh3awhz7x2xygq59jzj.jpg"
+}

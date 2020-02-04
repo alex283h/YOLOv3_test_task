@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 394.13193583488464,
+            "y": 431.1375427246094,
+            "width": 80.7204794883728,
+            "height": 75.96221923828125,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 929.2053079605103,
+            "y": 980.4881286621094,
+            "width": 94.79467391967773,
+            "height": 74.4708251953125,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 515.5666422843933,
+            "y": 297.17105865478516,
+            "width": 175.52345752716064,
+            "height": 93.192138671875,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 498.1686758995056,
+            "y": 988.1310272216797,
+            "width": 370.95015048980713,
+            "height": 288.3123779296875,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 419.514377117157,
+            "y": 492.7186584472656,
+            "width": 513.1518173217773,
+            "height": 527.962646484375,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "2v3t4j8a5lr0u2h88uqd6wd5bwfjzww21gujtdpet6xcgzrbz4f2twjzfy2i61ii.jpg"
+}

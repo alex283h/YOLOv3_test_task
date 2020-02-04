@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 262.23551988601685,
+            "y": 808.800423681736,
+            "width": 263.493754863739,
+            "height": 62.532059133052826,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 26.32532089948654,
+            "y": 635.35891020298,
+            "width": 243.47164660692215,
+            "height": 235.86805951595306,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 249.00176346302032,
+            "y": 572.5484422445297,
+            "width": 291.33555114269257,
+            "height": 285.4018392562866,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "rqxb3mn31i9d1uesz6r0ykclvx794jyj7n9jqy4exv3thdw83d4j4gvlgtkj2nzt.jpg"
+}

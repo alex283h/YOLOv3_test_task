@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 571.3677477836609,
+            "y": 415.07438588142395,
+            "width": 419.5445680618286,
+            "height": 380.32996559143066,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 510.4327976703644,
+            "y": 695.7072441577911,
+            "width": 564.109400510788,
+            "height": 373.6818882226944,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 131.14564955234528,
+            "y": 346.05895632505417,
+            "width": 504.34116303920746,
+            "height": 427.21958780288696,
+            "genre": "hombre",
+            "class": "chaquetas"
+        },
+        {
+            "x": 22.89497137069702,
+            "y": 695.4796389937401,
+            "width": 574.7033643722534,
+            "height": 386.21792274713516,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "7j1pkw4d6tgxljwkvx1924wnwa8oosxcydxid10e3dw4zy3gs5c38eq4ub845u74.jpg"
+}

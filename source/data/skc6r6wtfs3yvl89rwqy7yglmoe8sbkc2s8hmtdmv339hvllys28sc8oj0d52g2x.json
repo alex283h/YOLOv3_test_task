@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 479.48720812797546,
+            "y": 391.67015075683594,
+            "width": 88.42100501060486,
+            "height": 141.40442848205566,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 343.11371326446533,
+            "y": 454.61554527282715,
+            "width": 133.69799137115479,
+            "height": 221.5254020690918,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "skc6r6wtfs3yvl89rwqy7yglmoe8sbkc2s8hmtdmv339hvllys28sc8oj0d52g2x.jpg"
+}

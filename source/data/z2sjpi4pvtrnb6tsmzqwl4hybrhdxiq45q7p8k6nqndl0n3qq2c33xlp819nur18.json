@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 452.37390518188477,
+            "y": 443.8452376127243,
+            "width": 115.1964783668518,
+            "height": 176.70730030536652,
+            "genre": "mujer",
+            "class": "chaquetas"
+        },
+        {
+            "x": 445.7286787033081,
+            "y": 552.5915299654007,
+            "width": 118.40045213699341,
+            "height": 192.67145144939423,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 0.0,
+            "y": 83.8549023270607,
+            "width": 462.2786593437195,
+            "height": 413.3783918619156,
+            "class": "bolso"
+        }
+    ],
+    "file_name": "z2sjpi4pvtrnb6tsmzqwl4hybrhdxiq45q7p8k6nqndl0n3qq2c33xlp819nur18.jpg"
+}

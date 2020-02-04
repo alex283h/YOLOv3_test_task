@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 327.19738841056824,
+            "y": 571.8721425533295,
+            "width": 47.154715061187744,
+            "height": 46.95863485336304,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 325.7522463798523,
+            "y": 486.26681327819824,
+            "width": 621.1128330230713,
+            "height": 335.64486622810364,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "zwy7p2mhqwcovy3f7qhcs77r6dfpbcf7dhggnqe9jicr1eywk4rt94z0o5evcqoh.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 378.82264852523804,
+            "y": 313.22863698005676,
+            "width": 205.08831024169922,
+            "height": 170.6425666809082,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 387.51065611839294,
+            "y": 1073.4773397445679,
+            "width": 422.7145206928253,
+            "height": 278.86680364608765,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 276.81639432907104,
+            "y": 507.0190563797951,
+            "width": 548.8255405426025,
+            "height": 730.4232761263847,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "zkrzgz87049srpnt8ih47ds70rq5suj8miwatm81zkcixuj6y6jhqkkuu3n4qweq.jpg"
+}

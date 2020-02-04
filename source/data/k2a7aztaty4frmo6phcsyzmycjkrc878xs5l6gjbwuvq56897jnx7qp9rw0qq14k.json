@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 396.27166271209717,
+            "y": 558.576250076294,
+            "width": 73.019278049469,
+            "height": 76.33944511413574,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 559.7088932991028,
+            "y": 567.2377681732178,
+            "width": 77.21144199371338,
+            "height": 91.27372741699219,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 399.1797459125519,
+            "y": 684.1458606719971,
+            "width": 454.9592864513397,
+            "height": 394.9963045120239,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "k2a7aztaty4frmo6phcsyzmycjkrc878xs5l6gjbwuvq56897jnx7qp9rw0qq14k.jpg"
+}

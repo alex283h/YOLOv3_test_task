@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 447.6796390414238,
+            "y": 535.1433883905411,
+            "width": 109.77927213907242,
+            "height": 66.7625213265419,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 621.9260784387589,
+            "y": 1224.6211935281754,
+            "width": 78.65449976921082,
+            "height": 110.76827573776245,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 375.7732193470001,
+            "y": 790.3570437431335,
+            "width": 287.7660354375839,
+            "height": 221.1702731847763,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 263.12529280781746,
+            "y": 544.6961804628372,
+            "width": 425.4536790549755,
+            "height": 412.6003382205963,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "vjynyvncwdinvfn2bwpcezclxcb56es7st9jd94v0ulunb2gky6lwxcafrm1nc0x.jpg"
+}

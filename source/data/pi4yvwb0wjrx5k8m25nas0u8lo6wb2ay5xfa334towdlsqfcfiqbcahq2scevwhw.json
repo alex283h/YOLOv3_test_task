@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 121.55109286308289,
+            "y": 456.0990389585495,
+            "width": 79.15801763534546,
+            "height": 99.15361273288727,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 454.99253511428833,
+            "y": 105.4890064150095,
+            "width": 210.02391815185547,
+            "height": 132.50058542191982,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 776.178674697876,
+            "y": 106.62525948882103,
+            "width": 243.78305912017822,
+            "height": 191.49243819713593,
+            "genre": "mujer",
+            "class": "sombreros"
+        }
+    ],
+    "file_name": "pi4yvwb0wjrx5k8m25nas0u8lo6wb2ay5xfa334towdlsqfcfiqbcahq2scevwhw.jpg"
+}

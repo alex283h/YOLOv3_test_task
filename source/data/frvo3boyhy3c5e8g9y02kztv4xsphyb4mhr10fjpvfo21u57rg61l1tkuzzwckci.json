@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 676.479851603508,
+            "y": 291.6792869567871,
+            "width": 286.2640771865845,
+            "height": 139.89173769950867,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 646.4179691076279,
+            "y": 148.9244520664215,
+            "width": 338.88234543800354,
+            "height": 190.74116349220276,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 743.9255819320679,
+            "y": 535.9140515327454,
+            "width": 229.68886470794678,
+            "height": 365.04907608032227,
+            "genre": "hombre",
+            "class": "bufandas"
+        }
+    ],
+    "file_name": "frvo3boyhy3c5e8g9y02kztv4xsphyb4mhr10fjpvfo21u57rg61l1tkuzzwckci.jpg"
+}

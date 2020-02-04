@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 413.1026476621628,
+            "y": 5.47140883281827,
+            "width": 166.90536439418793,
+            "height": 140.53133642300963,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 196.45437598228455,
+            "y": 662.0387881994247,
+            "width": 281.8768858909607,
+            "height": 335.33795177936554,
+            "genre": "hombre",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 183.90091359615326,
+            "y": 200.89703612029552,
+            "width": 363.6583238840103,
+            "height": 540.9500766545534,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "41pwu5f8dr5v1r29wiiz3opslnucjqlzca32w5ytm6ibwl15q8j5p48spccoupq8.jpg"
+}

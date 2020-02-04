@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 439.8321747779846,
+            "y": 12.868157923221588,
+            "width": 241.0072946548462,
+            "height": 173.17555636167526,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 389.935040473938,
+            "y": 382.0995247364044,
+            "width": 244.66522693634033,
+            "height": 353.0428969860077,
+            "genre": "mujer",
+            "class": "falda"
+        },
+        {
+            "x": 354.9903416633606,
+            "y": 159.39045310020447,
+            "width": 335.263295173645,
+            "height": 391.23637318611145,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "48028934ia31l4kc7vnm7tkgtgec6anweh3mq5u9x1zrbh9lfhm0hbs60nin81ge.jpg"
+}

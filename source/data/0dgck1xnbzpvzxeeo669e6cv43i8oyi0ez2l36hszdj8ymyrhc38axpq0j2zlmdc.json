@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 587.2211480140686,
+            "y": 751.1136889457703,
+            "width": 32.41039752960205,
+            "height": 59.96443033218384,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 390.06298184394836,
+            "y": 1177.455934882164,
+            "width": 321.00624918937683,
+            "height": 178.40603291988373,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 401.1759853363037,
+            "y": 806.6675215959549,
+            "width": 307.47320652008057,
+            "height": 414.23070430755615,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "0dgck1xnbzpvzxeeo669e6cv43i8oyi0ez2l36hszdj8ymyrhc38axpq0j2zlmdc.jpg"
+}

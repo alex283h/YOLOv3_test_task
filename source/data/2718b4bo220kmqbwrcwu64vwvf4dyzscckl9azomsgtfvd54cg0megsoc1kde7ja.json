@@ -1,0 +1,20 @@
+{
+    "arr_boxes": [
+        {
+            "x": 666.526837348938,
+            "y": 1205.8064222931862,
+            "width": 408.26847553253174,
+            "height": 147.6391014456749,
+            "class": "bolso"
+        },
+        {
+            "x": 39.773157835006714,
+            "y": 836.3270988464355,
+            "width": 558.308812379837,
+            "height": 510.25169563293457,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "2718b4bo220kmqbwrcwu64vwvf4dyzscckl9azomsgtfvd54cg0megsoc1kde7ja.jpg"
+}

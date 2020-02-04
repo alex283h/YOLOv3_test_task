@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 440.01464009284973,
+            "y": 1042.2164350748062,
+            "width": 97.62624979019165,
+            "height": 79.82479333877563,
+            "genre": "chica",
+            "class": "pulseras"
+        },
+        {
+            "x": 190.62692821025848,
+            "y": 861.4864557981491,
+            "width": 158.9359313249588,
+            "height": 281.78016543388367,
+            "genre": "chica",
+            "class": "collares"
+        },
+        {
+            "x": 2.3178631067276,
+            "y": 864.5358055830002,
+            "width": 465.0102800130844,
+            "height": 508.39708149433136,
+            "genre": "chica",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "8sq0443ijkwzya15qov2qigm70ah4qswrgkoi5rq98ej5ehdcubznrvtyajum3r3.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 495.5791747570038,
+            "y": 913.297963142395,
+            "width": 80.14321446418762,
+            "height": 159.02851581573486,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 529.8186349868774,
+            "y": 350.2832901477814,
+            "width": 239.52014923095703,
+            "height": 168.78154277801514,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 430.9456729888916,
+            "y": 547.9933261871338,
+            "width": 257.75947093963623,
+            "height": 515.4214811325073,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 106.79792404174805,
+            "y": 430.31224250793457,
+            "width": 713.7940764427185,
+            "height": 708.1448936462402,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "yt0m3k7j7czgznhng5qpn79dctsadtyfnz5ocyxs9hk66xsop6zlr2eavaswomub.jpg"
+}

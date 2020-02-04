@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 464.27995204925537,
+            "y": 980.2041381597519,
+            "width": 193.96066188812256,
+            "height": 80.29809594154358,
+            "genre": "hombre",
+            "class": "cinturones"
+        },
+        {
+            "x": 469.5563507080078,
+            "y": 593.5382008552551,
+            "width": 166.17507934570312,
+            "height": 393.575656414032,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 375.14994263648987,
+            "y": 988.7667149305344,
+            "width": 355.6424081325531,
+            "height": 361.52022778987885,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 307.7659749984741,
+            "y": 528.0766770243645,
+            "width": 591.7790794372559,
+            "height": 671.9760373234749,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "o3cpo5j9gci1xdckuni9s55lpfej1we0lohunwr8bi2e6hwbyw6zhbwcfbx0obbv.jpg"
+}

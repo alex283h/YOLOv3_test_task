@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 38.58003616333008,
+            "y": 694.6159744262695,
+            "width": 445.8013343811035,
+            "height": 249.95281219482422,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 399.38426971435547,
+            "y": 695.8315658569336,
+            "width": 450.5175018310547,
+            "height": 254.93682861328125,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "dyermdt2a4fwk1hgg7mt4uy9dkesbi4897hq8eyps70jeggehkv1t401064594up.jpg"
+}

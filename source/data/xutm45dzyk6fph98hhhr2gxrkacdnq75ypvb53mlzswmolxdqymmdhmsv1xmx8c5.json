@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 329.79583740234375,
+            "y": 287.89926528930664,
+            "width": 57.90679931640625,
+            "height": 42.4040412902832,
+            "genre": "chico",
+            "class": "sombreros"
+        },
+        {
+            "x": 322.7668762207031,
+            "y": 461.3374710083008,
+            "width": 81.18583679199219,
+            "height": 124.11819458007812,
+            "genre": "chico",
+            "class": "pantalones"
+        },
+        {
+            "x": 294.72938537597656,
+            "y": 334.9192428588867,
+            "width": 121.6253662109375,
+            "height": 138.8396453857422,
+            "genre": "chico",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "xutm45dzyk6fph98hhhr2gxrkacdnq75ypvb53mlzswmolxdqymmdhmsv1xmx8c5.jpg"
+}

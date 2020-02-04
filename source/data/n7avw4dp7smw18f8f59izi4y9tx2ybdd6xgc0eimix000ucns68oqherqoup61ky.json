@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 604.9434900283813,
+            "y": 398.76046031713486,
+            "width": 296.8860983848572,
+            "height": 269.47349309921265,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 14.955662190914154,
+            "y": 121.34752795100212,
+            "width": 356.20734840631485,
+            "height": 681.500393897295,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 20.377063751220703,
+            "y": 692.0346021652222,
+            "width": 864.3478631973267,
+            "height": 436.91615760326385,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "n7avw4dp7smw18f8f59izi4y9tx2ybdd6xgc0eimix000ucns68oqherqoup61ky.jpg"
+}

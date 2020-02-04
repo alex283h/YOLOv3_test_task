@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 351.409475505352,
+            "y": 197.0331634581089,
+            "width": 52.61942446231842,
+            "height": 31.227920591831207,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 213.11850547790527,
+            "y": 363.6890366077423,
+            "width": 122.36447930335999,
+            "height": 144.6042242050171,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 244.55923438072205,
+            "y": 235.01783519983292,
+            "width": 130.44679760932922,
+            "height": 171.3133693933487,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "7zh1eaecr9gx470os97y457ar3m8xwb7k59zlm5525k9xev48n1m5pu0q3g9cnni.jpg"
+}

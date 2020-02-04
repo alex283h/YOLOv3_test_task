@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 649.2000031471252,
+            "y": 469.19195115566254,
+            "width": 140.22181034088135,
+            "height": 319.52657103538513,
+            "genre": "hombre",
+            "class": "corbatas"
+        },
+        {
+            "x": 602.1791839599609,
+            "y": 408.4679353237152,
+            "width": 239.1313362121582,
+            "height": 398.1366455554962,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 451.82348370552063,
+            "y": 376.5451392531395,
+            "width": 637.9354655742645,
+            "height": 445.31111508607864,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "vb9vijzsq96rg43h4h2af4fd74ddxx8xnpguoerrqg3zfp1q0of4k0k59p6mlsbw.jpg"
+}

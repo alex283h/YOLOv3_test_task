@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 755.463695526123,
+            "y": 415.8937168121338,
+            "width": 103.57399463653564,
+            "height": 103.74850988388062,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 834.5516109466553,
+            "y": 450.0358772277832,
+            "width": 105.5511474609375,
+            "height": 113.39152336120605,
+            "genre": "mujer",
+            "class": "botas"
+        },
+        {
+            "x": 789.6370768547058,
+            "y": 236.62104606628418,
+            "width": 174.42963123321533,
+            "height": 242.31316566467285,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "maokbr6mfcu0f3ryl6foc6s46sqfzwqif088tkqm7ggorsmnp21rwsefef3k2c07.jpg"
+}

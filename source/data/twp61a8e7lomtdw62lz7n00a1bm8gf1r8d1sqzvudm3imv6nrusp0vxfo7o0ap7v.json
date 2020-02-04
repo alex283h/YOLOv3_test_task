@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 149.4375640153885,
+            "y": 395.72680950164795,
+            "width": 57.69238471984863,
+            "height": 99.78010654449463,
+            "genre": "mujer",
+            "class": "pendientes"
+        },
+        {
+            "x": 85.75264692306519,
+            "y": 439.5981788635254,
+            "width": 410.65330266952515,
+            "height": 334.9022912979126,
+            "genre": "mujer",
+            "class": "bufandas"
+        },
+        {
+            "x": 425.6270134449005,
+            "y": 219.37437236309052,
+            "width": 460.42558550834656,
+            "height": 341.1926132440567,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 280.39215445518494,
+            "y": 681.9979906082153,
+            "width": 819.8283112049103,
+            "height": 388.21550846099854,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "twp61a8e7lomtdw62lz7n00a1bm8gf1r8d1sqzvudm3imv6nrusp0vxfo7o0ap7v.jpg"
+}

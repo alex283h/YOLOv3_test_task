@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 631.2778472900391,
+            "y": 717.1532213687897,
+            "width": 49.41452980041504,
+            "height": 48.57249855995178,
+            "genre": "hombre",
+            "class": "anillos"
+        },
+        {
+            "x": 646.4289379119873,
+            "y": 882.8378587961197,
+            "width": 115.71616172790527,
+            "height": 73.46023321151733,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 719.4150638580322,
+            "y": 471.8273341655731,
+            "width": 151.16226196289062,
+            "height": 113.8533353805542,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 334.990611076355,
+            "y": 562.6456305384636,
+            "width": 434.70930576324463,
+            "height": 782.5553610920906,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "nf2nu4jtg56e18i64fxp3bub9usbzeims6n4euctmj6cstkor5is6ve0b7t9oktq.jpg"
+}

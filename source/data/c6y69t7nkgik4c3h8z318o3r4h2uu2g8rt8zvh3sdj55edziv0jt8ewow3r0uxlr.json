@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 269.10944759845734,
+            "y": 1000.0220149755478,
+            "width": 193.90151917934418,
+            "height": 333.61911177635193,
+            "genre": "mujer",
+            "class": "calcetines y medias"
+        },
+        {
+            "x": 568.712682723999,
+            "y": 845.5342590808868,
+            "width": 319.2431688308716,
+            "height": 224.73859190940857,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 191.4204704761505,
+            "y": 736.6197824478149,
+            "width": 309.90206480026245,
+            "height": 330.8639466762543,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 532.0518636703491,
+            "y": 358.54530930519104,
+            "width": 476.781063079834,
+            "height": 666.2797093391418,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 56.93296015262604,
+            "y": 405.7651698589325,
+            "width": 499.3339079618454,
+            "height": 715.7333135604858,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "c6y69t7nkgik4c3h8z318o3r4h2uu2g8rt8zvh3sdj55edziv0jt8ewow3r0uxlr.jpg"
+}

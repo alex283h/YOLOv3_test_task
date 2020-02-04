@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 590.6276392936707,
+            "y": 556.056432723999,
+            "width": 244.6459150314331,
+            "height": 96.04866027832031,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 297.80566692352295,
+            "y": 694.7117257118225,
+            "width": 656.5203094482422,
+            "height": 392.4318766593933,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "qcc8fmc28tm9a5cj2yypy60ed13lzae6sfbaoy30wpj9251rzae9u8lgvva36rwp.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 111.40353173017502,
+            "y": 606.7744633555412,
+            "width": 263.5292163491249,
+            "height": 299.2525142431259,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 176.9442182779312,
+            "y": 895.0212401151657,
+            "width": 242.53996789455414,
+            "height": 451.92636728286743,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 407.62017488479614,
+            "y": 626.898777782917,
+            "width": 306.5939998626709,
+            "height": 470.44843912124634,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "4714cg4t3yfc58gcsd0omhrv3es4pgabwk72ebx32pu259idypvxlu40mb115q4r.jpg"
+}

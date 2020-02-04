@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 839.2736291885376,
+            "y": 395.56249737739563,
+            "width": 68.66322040557861,
+            "height": 120.11805295944214,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 90.85327506065369,
+            "y": 811.4798069000244,
+            "width": 110.22749304771423,
+            "height": 103.81449222564697,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 784.8637533187866,
+            "y": 215.51963567733765,
+            "width": 158.70459079742432,
+            "height": 184.9618935585022,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "vlpes22bnq0klzjm6ssqsn1y1qgceowlvak9qcozhlh35bkpffd6retqpfymb5j5.jpg"
+}

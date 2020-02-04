@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 304.13395285606384,
+            "y": 425.5989468097687,
+            "width": 187.5630784034729,
+            "height": 186.37356162071228,
+            "genre": "hombre",
+            "class": "corbatas"
+        },
+        {
+            "x": 570.6822395324707,
+            "y": 644.5672702789307,
+            "width": 295.41523933410645,
+            "height": 433.8705253601074,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 227.29217290878296,
+            "y": 451.0066223144531,
+            "width": 393.47291707992554,
+            "height": 651.0580015182495,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "zgdcgv2usvcu6wxgi3aheojaegu5zp2yg5t9vv7a02auomnckwqjfbdhwmzkvpyz.jpg"
+}

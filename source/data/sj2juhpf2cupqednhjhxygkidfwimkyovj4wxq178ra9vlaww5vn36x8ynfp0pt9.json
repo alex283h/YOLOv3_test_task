@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 321.76524913311005,
+            "y": 767.408597946167,
+            "width": 55.02655518054962,
+            "height": 85.71601867675781,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 213.563034594059,
+            "y": 284.5268783569336,
+            "width": 171.48872315883636,
+            "height": 103.64550018310547,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 247.81801044940948,
+            "y": 495.2778511047363,
+            "width": 111.97389662265778,
+            "height": 312.9078598022461,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 63.875228226184845,
+            "y": 432.2365837097168,
+            "width": 539.010522544384,
+            "height": 429.65826416015625,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "sj2juhpf2cupqednhjhxygkidfwimkyovj4wxq178ra9vlaww5vn36x8ynfp0pt9.jpg"
+}

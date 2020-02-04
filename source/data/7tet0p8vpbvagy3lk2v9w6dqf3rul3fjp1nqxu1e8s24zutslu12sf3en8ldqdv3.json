@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 663.6699628829956,
+            "y": 842.6101615428925,
+            "width": 127.99170970916748,
+            "height": 103.21551656723022,
+            "genre": "mujer",
+            "class": "pulseras"
+        },
+        {
+            "x": 439.856379032135,
+            "y": 541.6196277141571,
+            "width": 198.2417893409729,
+            "height": 146.5320920944214,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 375.85205912590027,
+            "y": 629.4219410419464,
+            "width": 289.69682335853577,
+            "height": 441.8760013580322,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 170.2692675590515,
+            "y": 515.733760714531,
+            "width": 746.5664434432983,
+            "height": 583.4538036584854,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "7tet0p8vpbvagy3lk2v9w6dqf3rul3fjp1nqxu1e8s24zutslu12sf3en8ldqdv3.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 445.90473890304565,
+            "y": 363.4701266884804,
+            "width": 51.29235506057739,
+            "height": 63.185736536979675,
+            "genre": "chica",
+            "class": "pendientes"
+        },
+        {
+            "x": 474.2918872833252,
+            "y": 1223.8558441400528,
+            "width": 141.07076168060303,
+            "height": 104.56511378288269,
+            "genre": "chica",
+            "class": "zapatos"
+        },
+        {
+            "x": 362.1175289154053,
+            "y": 432.7796682715416,
+            "width": 323.37971448898315,
+            "height": 759.0215519070625,
+            "genre": "chica",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "hlhv9ifkyc8e6c63g9a3w4k4s82rlcsj5v6fjgn7vayetzdssnjf0g8rlshojew4.jpg"
+}

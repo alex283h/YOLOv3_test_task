@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 399.3721568584442,
+            "y": 374.94874477386475,
+            "width": 75.79999923706055,
+            "height": 55.203208923339844,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 442.69004702568054,
+            "y": 172.47165083885193,
+            "width": 102.43951678276062,
+            "height": 61.62032961845398,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 313.640398979187,
+            "y": 277.52604246139526,
+            "width": 434.24556255340576,
+            "height": 458.59261751174927,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "slgekbg5xjuneakblk4ss7b3njou554bu5hral0ymv4qdoq71dj0mdr48jqm9rlp.jpg"
+}

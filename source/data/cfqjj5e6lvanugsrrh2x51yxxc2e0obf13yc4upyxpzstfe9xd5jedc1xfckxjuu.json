@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 484.8071873188019,
+            "y": 415.2196669578552,
+            "width": 88.13351511955261,
+            "height": 53.33291530609131,
+            "genre": "mujer",
+            "class": "collares"
+        },
+        {
+            "x": 376.2367844581604,
+            "y": 793.079423904419,
+            "width": 308.5974168777466,
+            "height": 281.32462978363037,
+            "genre": "mujer",
+            "class": "pantalones"
+        },
+        {
+            "x": 344.97418999671936,
+            "y": 430.5817723274231,
+            "width": 382.1926724910736,
+            "height": 411.59733295440674,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "cfqjj5e6lvanugsrrh2x51yxxc2e0obf13yc4upyxpzstfe9xd5jedc1xfckxjuu.jpg"
+}

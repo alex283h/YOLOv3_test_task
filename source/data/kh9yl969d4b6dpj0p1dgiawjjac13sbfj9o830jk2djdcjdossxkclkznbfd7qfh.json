@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 536.7372536659241,
+            "y": 259.8850428760052,
+            "width": 150.6892490386963,
+            "height": 76.8377954363823,
+            "genre": "hombre",
+            "class": "pulseras"
+        },
+        {
+            "x": 668.180902004242,
+            "y": 631.7659413218498,
+            "width": 128.575701713562,
+            "height": 99.91711497306824,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 840.8407258987427,
+            "y": 871.3169581890106,
+            "width": 248.41727256774902,
+            "height": 160.0067069530487,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 40.898736119270325,
+            "y": 681.959988951683,
+            "width": 474.4232243299484,
+            "height": 330.62791633605957,
+            "genre": "hombre",
+            "class": "calcetines y medias"
+        },
+        {
+            "x": 21.36414885520935,
+            "y": 421.16353127360344,
+            "width": 864.1733372211456,
+            "height": 646.6058298647404,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "kh9yl969d4b6dpj0p1dgiawjjac13sbfj9o830jk2djdcjdossxkclkznbfd7qfh.jpg"
+}

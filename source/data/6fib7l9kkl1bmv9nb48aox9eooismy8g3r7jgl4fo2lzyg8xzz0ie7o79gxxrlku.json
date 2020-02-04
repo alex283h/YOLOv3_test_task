@@ -1,0 +1,21 @@
+{
+    "arr_boxes": [
+        {
+            "x": 210.84726297855377,
+            "y": 344.23792576789856,
+            "width": 71.85061812400818,
+            "height": 71.8883728981018,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 161.46728324890137,
+            "y": 87.02632284164429,
+            "width": 105.65934348106384,
+            "height": 154.34706115722656,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "6fib7l9kkl1bmv9nb48aox9eooismy8g3r7jgl4fo2lzyg8xzz0ie7o79gxxrlku.jpg"
+}

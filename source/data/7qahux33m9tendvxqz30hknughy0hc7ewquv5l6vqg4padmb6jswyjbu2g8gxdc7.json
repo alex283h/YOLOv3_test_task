@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 0.0,
+            "y": 730.1979303359985,
+            "width": 72.0880177617073,
+            "height": 168.35925579071045,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 9.366756677627563,
+            "y": 349.877804517746,
+            "width": 706.7929637432098,
+            "height": 670.9551215171814,
+            "genre": "hombre",
+            "class": "camisas"
+        },
+        {
+            "x": 362.28370785713196,
+            "y": 513.5253176093102,
+            "width": 706.5993297100067,
+            "height": 882.2229757905006,
+            "genre": "hombre",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "7qahux33m9tendvxqz30hknughy0hc7ewquv5l6vqg4padmb6jswyjbu2g8gxdc7.jpg"
+}

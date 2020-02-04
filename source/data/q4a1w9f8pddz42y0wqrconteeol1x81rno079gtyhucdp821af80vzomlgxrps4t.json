@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 575.4498982429504,
+            "y": 1046.4501678943634,
+            "width": 48.34233283996582,
+            "height": 56.0127317905426,
+            "class": "zapatos"
+        },
+        {
+            "x": 561.5746808052063,
+            "y": 634.8471701145172,
+            "width": 71.84002876281738,
+            "height": 51.318490505218506,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 516.6188836097717,
+            "y": 689.3390089273453,
+            "width": 154.1204595565796,
+            "height": 231.39057755470276,
+            "genre": "mujer",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "q4a1w9f8pddz42y0wqrconteeol1x81rno079gtyhucdp821af80vzomlgxrps4t.jpg"
+}

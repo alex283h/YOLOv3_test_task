@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 351.898193359375,
+            "y": 127.55709886550903,
+            "width": 123.60793352127075,
+            "height": 61.98000907897949,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 248.74310195446014,
+            "y": 287.7161502838135,
+            "width": 294.01005804538727,
+            "height": 440.6270980834961,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 221.6210514307022,
+            "y": 284.0946614742279,
+            "width": 350.2969592809677,
+            "height": 596.3148176670074,
+            "genre": "mujer",
+            "class": "vestidos"
+        }
+    ],
+    "file_name": "om8z0sz9rlyjps3yn5raunzuic1el8r7e8npneczibcvw79xa1jnya9486venzoc.jpg"
+}

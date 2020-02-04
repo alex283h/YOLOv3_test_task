@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 682.8321361541748,
+            "y": 275.38583278656006,
+            "width": 176.49561882019043,
+            "height": 396.4746952056885,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 546.9672203063965,
+            "y": 259.9051281809807,
+            "width": 200.55001258850098,
+            "height": 611.7912903428078,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 105.45977801084518,
+            "y": 95.97783386707306,
+            "width": 252.51695662736893,
+            "height": 552.6565879583359,
+            "genre": "hombre",
+            "class": "botas"
+        }
+    ],
+    "file_name": "0oek754vq1q04d5bauy2df47nr9q5ys4j44e9qx0i2f1dryvp1mcj94mvlfczje9.jpg"
+}

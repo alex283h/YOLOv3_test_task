@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 826.1901998519897,
+            "y": 927.3848712444305,
+            "width": 107.19806671142578,
+            "height": 121.32929563522339,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 439.21757340431213,
+            "y": 706.5788269042969,
+            "width": 182.4074113368988,
+            "height": 219.1048264503479,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 274.1831839084625,
+            "y": 726.220965385437,
+            "width": 176.09438180923462,
+            "height": 292.1158969402313,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 413.5936367511749,
+            "y": 892.0953422784805,
+            "width": 190.96380829811096,
+            "height": 438.802045583725,
+            "genre": "mujer",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "xoy91eh53kqexfypu4vffx7myggcxyejeqqakl5dwwe838yryzrn7frldc3b4jyl.jpg"
+}

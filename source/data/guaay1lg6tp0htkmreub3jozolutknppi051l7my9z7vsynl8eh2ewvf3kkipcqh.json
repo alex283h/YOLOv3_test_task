@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 396.93649113178253,
+            "y": 453.5929709672928,
+            "width": 64.00465965270996,
+            "height": 51.755547523498535,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 309.11853164434433,
+            "y": 503.5480409860611,
+            "width": 62.953367829322815,
+            "height": 55.337101221084595,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 306.1707615852356,
+            "y": 327.14416086673737,
+            "width": 131.40705227851868,
+            "height": 191.80047512054443,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 234.97778177261353,
+            "y": 180.44248223304749,
+            "width": 197.49444723129272,
+            "height": 163.25636208057404,
+            "genre": "hombre",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "guaay1lg6tp0htkmreub3jozolutknppi051l7my9z7vsynl8eh2ewvf3kkipcqh.jpg"
+}

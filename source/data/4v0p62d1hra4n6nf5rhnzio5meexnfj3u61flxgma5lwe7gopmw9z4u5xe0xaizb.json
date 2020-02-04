@@ -1,0 +1,61 @@
+{
+    "arr_boxes": [
+        {
+            "x": 363.07687997817993,
+            "y": 715.4174029827118,
+            "width": 42.54734516143799,
+            "height": 43.585360050201416,
+            "genre": "hombre",
+            "class": "relojes"
+        },
+        {
+            "x": 478.9853239059448,
+            "y": 1067.0316696166992,
+            "width": 73.09111833572388,
+            "height": 115.81478118896484,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 434.4811677932739,
+            "y": 1159.0531378984451,
+            "width": 96.97962284088135,
+            "height": 118.15232634544373,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 455.8621823787689,
+            "y": 292.81953424215317,
+            "width": 116.71326756477356,
+            "height": 148.28984141349792,
+            "genre": "hombre",
+            "class": "sombreros"
+        },
+        {
+            "x": 389.66248512268066,
+            "y": 459.18338745832443,
+            "width": 179.7055149078369,
+            "height": 345.22391706705093,
+            "genre": "hombre",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 396.8278455734253,
+            "y": 713.128137588501,
+            "width": 164.8121738433838,
+            "height": 477.8109669685364,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 307.4140477180481,
+            "y": 348.4900027513504,
+            "width": 302.2602152824402,
+            "height": 437.93606758117676,
+            "genre": "hombre",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "4v0p62d1hra4n6nf5rhnzio5meexnfj3u61flxgma5lwe7gopmw9z4u5xe0xaizb.jpg"
+}

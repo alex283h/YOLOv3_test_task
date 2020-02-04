@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 515.4149794578552,
+            "y": 517.0102071762085,
+            "width": 310.60752868652344,
+            "height": 288.5488271713257,
+            "genre": "chica",
+            "class": "camisas"
+        },
+        {
+            "x": 788.466067314148,
+            "y": 391.24683380126953,
+            "width": 276.4513349533081,
+            "height": 400.5233073234558,
+            "genre": "chica",
+            "class": "chaquetas"
+        },
+        {
+            "x": 56.62121772766113,
+            "y": 518.4644901752472,
+            "width": 478.7389039993286,
+            "height": 298.92656207084656,
+            "genre": "chica",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "cntrgbf94qbs69t8bg23nvxgqgnlmzypmv72gztxtkk0lxiykfdrb67pe9vrvczt.jpg"
+}

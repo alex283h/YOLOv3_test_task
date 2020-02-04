@@ -1,0 +1,45 @@
+{
+    "arr_boxes": [
+        {
+            "x": 271.1542081832886,
+            "y": 425.0223979353905,
+            "width": 86.4249587059021,
+            "height": 48.667046427726746,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 278.62488985061646,
+            "y": 1226.241910457611,
+            "width": 86.2710428237915,
+            "height": 113.92269730567932,
+            "genre": "hombre",
+            "class": "zapatos"
+        },
+        {
+            "x": 244.7813880443573,
+            "y": 763.62724006176,
+            "width": 130.92898607254028,
+            "height": 88.3751392364502,
+            "genre": "hombre",
+            "class": "bolso"
+        },
+        {
+            "x": 249.47126805782318,
+            "y": 906.0751497745514,
+            "width": 187.10878193378448,
+            "height": 334.10802483558655,
+            "genre": "hombre",
+            "class": "pantalones"
+        },
+        {
+            "x": 133.92349004745483,
+            "y": 526.3902649283409,
+            "width": 427.35217809677124,
+            "height": 450.744004547596,
+            "genre": "hombre",
+            "class": "abrigos"
+        }
+    ],
+    "file_name": "2wvdkv5lnnnhb1gk0tjtsrv0q4uv8njkuvsm4w5tm05e7ium2m9kixhhw6uqsor0.jpg"
+}

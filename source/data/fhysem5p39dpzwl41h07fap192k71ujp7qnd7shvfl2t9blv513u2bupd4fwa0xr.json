@@ -1,0 +1,37 @@
+{
+    "arr_boxes": [
+        {
+            "x": 440.4314020872116,
+            "y": 289.11790549755096,
+            "width": 156.74159932136536,
+            "height": 98.15900683403015,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 400.27906930446625,
+            "y": 641.5684977769852,
+            "width": 264.8016314506531,
+            "height": 381.9399662017822,
+            "genre": "mujer",
+            "class": "camisas"
+        },
+        {
+            "x": 173.6754712164402,
+            "y": 927.8173580169678,
+            "width": 378.7512362897396,
+            "height": 281.210352063179,
+            "genre": "mujer",
+            "class": "pantalones cortos"
+        },
+        {
+            "x": 182.79458478093147,
+            "y": 528.9468958973885,
+            "width": 232.57743924856186,
+            "height": 466.0070050954819,
+            "genre": "mujer",
+            "class": "camisas"
+        }
+    ],
+    "file_name": "fhysem5p39dpzwl41h07fap192k71ujp7qnd7shvfl2t9blv513u2bupd4fwa0xr.jpg"
+}

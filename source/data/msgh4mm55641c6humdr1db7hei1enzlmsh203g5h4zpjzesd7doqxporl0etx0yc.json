@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 571.6594862937927,
+            "y": 613.7048184871674,
+            "width": 232.1369504928589,
+            "height": 123.5913634300232,
+            "genre": "mujer",
+            "class": "zapatos"
+        },
+        {
+            "x": 702.9125905036926,
+            "y": 0.0,
+            "width": 287.8264331817627,
+            "height": 221.244834959507,
+            "genre": "mujer",
+            "class": "sombreros"
+        },
+        {
+            "x": 673.5530233383179,
+            "y": 189.7079148888588,
+            "width": 373.4814262390137,
+            "height": 448.80584567785263,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "msgh4mm55641c6humdr1db7hei1enzlmsh203g5h4zpjzesd7doqxporl0etx0yc.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "arr_boxes": [
+        {
+            "x": 780.8489942550659,
+            "y": 293.39590832591057,
+            "width": 45.75040936470032,
+            "height": 70.30061915516853,
+            "class": "relojes"
+        },
+        {
+            "x": 250.0197210907936,
+            "y": 503.98446393013,
+            "width": 205.37217497825623,
+            "height": 349.76673674583435,
+            "genre": "chica",
+            "class": "chaquetas"
+        },
+        {
+            "x": 202.68510773777962,
+            "y": 826.6664800643921,
+            "width": 282.5809095799923,
+            "height": 478.8636918067932,
+            "genre": "chica",
+            "class": "pantalones"
+        },
+        {
+            "x": 585.6329190731049,
+            "y": 816.3208594322205,
+            "width": 287.7908980846405,
+            "height": 491.0703821182251,
+            "genre": "chica",
+            "class": "pantalones"
+        }
+    ],
+    "file_name": "8t27aqcxdfjftxtuc7xel4xxpsve13ww6sknvxi80xfyczpkif9yqxq8f035enr7.jpg"
+}

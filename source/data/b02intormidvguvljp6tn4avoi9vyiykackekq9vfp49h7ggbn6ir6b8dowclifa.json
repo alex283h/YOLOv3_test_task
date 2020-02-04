@@ -1,0 +1,28 @@
+{
+    "arr_boxes": [
+        {
+            "x": 821.596348285675,
+            "y": 750.4931330680847,
+            "width": 35.54729461669922,
+            "height": 43.926987648010254,
+            "class": "pendientes"
+        },
+        {
+            "x": 498.70033264160156,
+            "y": 470.2288234233856,
+            "width": 282.2564935684204,
+            "height": 141.25361323356628,
+            "genre": "mujer",
+            "class": "gafas de sol"
+        },
+        {
+            "x": 100.31937539577484,
+            "y": 607.7817606925964,
+            "width": 326.3611990213394,
+            "height": 191.7302656173706,
+            "genre": "hombre",
+            "class": "gafas de sol"
+        }
+    ],
+    "file_name": "b02intormidvguvljp6tn4avoi9vyiykackekq9vfp49h7ggbn6ir6b8dowclifa.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 314.39810156822205,
+            "y": 888.0560964345932,
+            "width": 75.326406955719,
+            "height": 58.77079367637634,
+            "genre": "mujer",
+            "class": "relojes"
+        },
+        {
+            "x": 494.57366824150085,
+            "y": 1081.5870523452759,
+            "width": 241.95393204689026,
+            "height": 280.7408630847931,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 261.33638978004456,
+            "y": 909.8886877298355,
+            "width": 384.94693636894226,
+            "height": 390.1841640472412,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "harsq4pf3yffsnbehf813b3b1gz5e7j4css802odarxvom2k7m23ijfonfhw0s6d.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "arr_boxes": [
+        {
+            "x": 328.24521777033806,
+            "y": 398.4192657470703,
+            "width": 92.5367556810379,
+            "height": 231.6033172607422,
+            "genre": "mujer",
+            "class": "camisas ocultas debajo de la chaqueta"
+        },
+        {
+            "x": 152.5529078990221,
+            "y": 486.8210983276367,
+            "width": 165.88283912837505,
+            "height": 152.16796875,
+            "genre": "mujer",
+            "class": "bolso"
+        },
+        {
+            "x": 228.17277270555496,
+            "y": 304.6540641784668,
+            "width": 320.56288182735443,
+            "height": 310.5840492248535,
+            "genre": "mujer",
+            "class": "chaquetas"
+        }
+    ],
+    "file_name": "48fyxo75d58ua4zmpfczjcb2v6bhher5wwhhb2lveg30gk7pohx1t55ts1u4vjvv.jpg"
+}
