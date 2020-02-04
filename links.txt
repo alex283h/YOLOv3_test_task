@@ -1,0 +1,4 @@
+Data set:
+https://github.com/seralexger/clothing-detection-dataset
+YOLOv3 model:
+https://github.com/ultralytics/yolov3
